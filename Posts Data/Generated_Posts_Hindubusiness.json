@@ -1,0 +1,699 @@
+[
+  {
+    "post": {
+      "title": "GST cuts finally lowering vehicle prices, but is it really helping us?",
+      "body": "Price cuts from Tata, Mahindra, Royal Enfield and others got me thinking how much this will actually impact us buyers and workers. Auto companies slashed prices following new GST reforms, and the auto stocks jumped 12%. I work in auto sales so obviously happy for customers but wondering if the profit pressures this creates will affect our bonuses or job security. Anyone else feeling nervous about how these GST changes will play out on the ground?",
+      "tags": [
+        "GST reforms",
+        "auto industry",
+        "price cuts",
+        "stock market",
+        "job impact"
+      ],
+      "suggested_communities": [
+        "Auto Industry Insights",
+        "Sales and Marketing Network",
+        "Corporate India Lounge"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User452",
+        "is_op": false,
+        "text": "It’s good for buyers but honestly, companies always find a way to make up losses somewhere else. Maybe in future hiring or promotions, so tbh not fully convinced this is a win for employees.",
+        "upvotes": 75,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "User899",
+        "is_op": false,
+        "text": "Maine bhi dekha stock jump, par ye pricing cut thoda temporary lag raha hai. Market toh reaction de raha hai, but long term we never know. Fully agree about bonus effects. We got sudden targets increase last month and now this.",
+        "upvotes": 56,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "User321",
+        "is_op": false,
+        "text": "Mujhe lagta hai ye price cut will definitely boost demand if people really buy more. That means better sales numbers for us and hopefully more incentives. Just have to see if supply chain is ready, wars on that front are real still.",
+        "upvotes": 68,
+        "replies": [
+          {
+            "id": 4,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "I agree, demand boost is good but not sure if all brands can handle it smoothly. At my place, inventory shortage bhi hota hai sometimes so hope supply matches this.",
+            "upvotes": 40
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "User777",
+        "is_op": false,
+        "text": "Typical corporate move yaar, GST cut so called benefits passed on..But dekhna ye bhi ki quality or service pe compromise toh nahi hoga to maintain margin. As sales guys we might get pressure to sell more fast.",
+        "upvotes": 61,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "User234",
+        "is_op": false,
+        "text": "Anyone here dealing with customers confused between models after these price cuts? Mujhe lagta hai buyers ka interest toh badh raha par confusion bhi zyada ho gaya hai. Kaun track kare ki kaun actually kitna save kar raha hai in GST era?",
+        "upvotes": 39,
+        "replies": [
+          {
+            "id": 7,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Yup, that’s real. Staff training for GST pricing is still catching up. Customers often find out savings after multiple calls and visits. Thoda untidy process lag raha abhi.",
+            "upvotes": 26
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "author_label": "User504",
+        "is_op": false,
+        "text": "Price cuts are good news but I fear this will pressure margins and lead to cost-cutting on employee perks or headcount slowly. Hope I am wrong but auto sector ne pehle bhi tough phases dekhe hain.",
+        "upvotes": 48,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "approx 250 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Auto stocks accelerate 12% post GST 2.0 announcement; Royal Enfield, TVS, Tata Motors & more announce price cuts",
+      "brief": "→ Several automakers in India, including Tata Motors, Mahindra & Mahindra, Hyundai, Toyota Kirloskar Motor, TVS Motor Company, Bajaj Auto, Hero Motocorp, and Eicher Motors, have announced price cuts to pass on the benefits of GST reforms to customers. → Royal Enfield is reducing the price of its 350cc bike range by up to ₹22,000 starting September 22 in response to the GST reforms. → Nifty Auto index has surged 12% following the GST reforms, with investors optimistic about lower taxes boosting demand and profitability in the sector. → The article qualifies for web story generation."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Manufacturing",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The post focuses on multiple automakers announcing price cuts and the impact of GST reforms on the automotive sector. This indicates a broader industry perspective related to manufacturing operations, pricing strategy, and market response. Since the content involves sector-wide developments rather than specific job functions or city-level issues, it fits best under the Manufacturing community. The GST-related news impacting factory output, supply chain pricing, and auto industry trends signals an industry-level discussion."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news involves GST reforms which impact tax policies relevant to employees and businesses, alongside sector-specific developments affecting the automobile industry.",
+      "mapped_communities": [
+        "General Topics",
+        "Sectors - Automotive"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "HinduBusinessLine",
+      "suggested_community_name": "Manufacturing"
+    }
+  },
+  {
+    "post": {
+      "title": "India pumping GPUs and data labs for AI, but is it enough?",
+      "body": "This sounds huge but also kinda overwhelming. India is setting up 600 data labs and deploying 38 thousand GPUs to boost AI and promote responsible AI use. On one hand, it should open up cool opportunities for AI folks like us, but I’m honestly worried about how quick companies and people will adapt to all this tech and new rules around misinformation. Has anyone worked in AI or data labs recently? How are things changing on ground with such initiatives?",
+      "tags": [
+        "AI in India",
+        "technology upgrades",
+        "career impact",
+        "data labs",
+        "future of work"
+      ],
+      "suggested_communities": [
+        "Tech Jobs India",
+        "Data Science Hub",
+        "AI & Machine Learning"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User547",
+        "is_op": false,
+        "text": "Honestly sounds good on paper but last time too we got a lot of flashy announcements. Waiting for actual ground-level improvements, not just hype. Infrastructure and skilled people dono slow hai abhi. Will this really help juniors like me who are struggling to get solid AI projects?",
+        "upvotes": 98,
+        "replies": [
+          {
+            "id": 101,
+            "author_label": "User700",
+            "is_op": false,
+            "text": "Same yaar, I feel they talk about affordable computing power and labs but easy access abhi badi problem hai. Govt should tie-up with smaller startups not just big orgs. That’s where freshers get chances.",
+            "upvotes": 27
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "AnalystRohan",
+        "is_op": false,
+        "text": "Adding GPUs and labs is good but does anyone know about the responsible AI frameworks part? It feels like they want to control misinformation and bias but the actual guidelines and enforcement will decide if this is serious or just PR. Mere ko lagta hai policy clarity abhi missing hai.",
+        "upvotes": 72,
+        "replies": [
+          {
+            "id": 102,
+            "author_label": "User547",
+            "is_op": false,
+            "text": "Exactly, jitne frameworks hai utne hi loopholes milte hain. Companies will just tick boxes not real change.",
+            "upvotes": 21
+          },
+          {
+            "id": 103,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "I agree, policy clarity and real implementation is key. Hope the summits actually push for better guidelines beyond announcements.",
+            "upvotes": 33
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "DataDimple",
+        "is_op": false,
+        "text": "I got a chance to work in a govt partnered data lab last year. Facilities good but jo pehle se tech aware log hain unke liye zyada helpful tha. Naya join karne wale ko basic training se struggle karna padta hai still. More focus chahiye on skill building along with infrastructure.",
+        "upvotes": 65,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSid",
+        "is_op": false,
+        "text": "38k GPUs? Great. Ab bas chai peene ke liye offices khol do aur memes banate raho AI ke naam pe. Kuch serious kaam kab shuru hoga? Kuch log AI se salary hike bulwate hain baki sab nonsense lagta hai mujhe.",
+        "upvotes": 41,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "TechRahul",
+        "is_op": false,
+        "text": "If you want to benefit from all this, keep upgrading your skills on cloud GPU usage, distributed computing and stay updated on India's AI policy changes. Jo log ready rahenge wo hi fayda uthayenge. Also look for startups partnering with these data labs, unme internships easier milti hain.",
+        "upvotes": 56,
+        "replies": [
+          {
+            "id": 104,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Good point Rahul, skills matter more now than ever. I’m trying to learn more about these frameworks and tools too before jumping into projects.",
+            "upvotes": 18
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "about 300 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "India to deploy 38,000 GPUs, set up 600 data labs to strengthen AI ecosystem: MeitY",
+      "brief": "→ India plans to deploy 38,000 GPUs and establish 600 data labs to boost its AI ecosystem. → The focus is on responsible AI frameworks, combating misinformation, and embedding AI culture across organizations. → The CII AI Summit is a lead-up to the India-AI Impact Summit 2026 in February 2025. → India's AI ecosystem is thriving with affordable computing power, enabling innovation to address critical challenges."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The content focuses on the deployment of GPUs, establishment of data labs, AI frameworks, and the AI ecosystem, all of which fall under data science and analytics. Since the content is about technology for AI and machine learning infrastructure and innovation, it best fits Data Science & Analytics rather than other technical or industry categories. Per the classification priority, role communities like Data Science & Analytics are prioritized first."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The deployment of GPUs and data labs to strengthen AI reflects significant AI/tech trends that will impact skills, learning, and technology roles in the job market.",
+      "mapped_communities": [
+        "General Topics",
+        "Dev & QA",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "HinduBusinessLine",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "How does director hike happen during huge losses?",
+      "body": "This one really left me confused. Jaiprakash Associates gave their directors a 23 percent pay hike even when the company made a massive loss of over 4900 crore and is stuck in insolvency. Feels like a bad joke for employees and people working hard in the trenches while top bosses get fat raises. Have you seen something like this in your company too? How do you deal with these weird corporate moves when salaries at lower levels mostly stay flat or go down?",
+      "tags": [
+        "director pay hikes",
+        "company losses",
+        "corporate insolvency",
+        "employee salary",
+        "workplace frustration"
+      ],
+      "suggested_communities": [
+        "CorporateGossip",
+        "OfficeChaiPeCharcha",
+        "AmbitionBox Community"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User247",
+        "is_op": false,
+        "text": "Yeh kaisa system hai yaar... company ke losses hain and they still give themselves hike? Bahut zyada insensitive lagta hai. Lower level workers ka bhi toh koi value hota.",
+        "upvotes": 120,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "FinanceGuru",
+        "is_op": false,
+        "text": "Iska matlab yehi hai ki board level pe decisions alag hote hain, insiders ke liye. Auditors ne bhi opinion nahi diya—means accounts me itni uncertainty hai ki sab kuch shady lagta hai. Employees ko bas wait karte rehna chahiye? Advice chahiye toh skills upgrade kar lo and better places dhundo. Don't just depend on one risky company.",
+        "upvotes": 95,
+        "replies": [
+          {
+            "id": 5,
+            "author_label": "User247",
+            "is_op": false,
+            "text": "Agree, skill upgrade toh mandatory hai ab. But even leaving is tough in this market.",
+            "upvotes": 40
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "OfficeWatcher",
+        "is_op": false,
+        "text": "Typical name of the game. Jab tak company ghost bana na jaye, directors apna paisa toh banta hai. Lower employees ki salary ki dignity ko bhool jao. Funny part? Average employee salary toh down gaya hai. Hum sab ke liye ek hard dose hai.",
+        "upvotes": 80,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSaurabh",
+        "is_op": false,
+        "text": "Boss kaam ground pe karte hain, hike mile bas unko. Baaki sab ‘efficiency measures’ ke naam pe chill karte raho. Kya karein? Bas popcorn leke watch karte raho.",
+        "upvotes": 70,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Exactly yaar, itna hypocrisy bhara thing lagta hai. Jab company apne hi people ko confuse kar rahi hai, kaise trust banega? Skill up karna hi sabse safe option sa lagta hai ab.",
+        "upvotes": 55,
+        "replies": []
+      },
+      {
+        "id": 7,
+        "author_label": "PolicySeeker",
+        "is_op": false,
+        "text": "Honestly, there should be stricter rules on hikes during losses especially under insolvency. Directors can’t just ignore company’s financial health. Ye hikes jo hain, unethical lagte hain but legally loopholes mil jate hain. Hope regulators look into this.",
+        "upvotes": 60,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "about 250 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Jaiprakash hikes directors’ pay in FY25 despite deep losses",
+      "brief": "→ Jaiprakash Associates Limited (JAL) increased directors' remuneration by 23.6% in FY25 despite facing deep losses and being under the Corporate Insolvency Resolution Process. → The company's three executive directors received a total of ₹5.8 crore in FY25, with significant increases in their salaries, while the company reported a consolidated net loss of ₹4,933 crore in the same fiscal year. → The CFO saw his remuneration increase, and the median employee salary rose, although the average employee pay decreased. → Independent auditors issued a disclaimer of opinion on the consolidated accounts, citing challenges in validating liabilities and assets due to rejected schemes of arrangement and pending debt claims."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Finance & Accounting",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The post focuses on financial details such as director pay hikes, company losses, CFO remuneration, and auditors' opinions which are core topics under corporate finance and accounting. These elements align strongly with Finance & Accounting community guidelines. It concerns sector-level financial disclosures and audit challenges, making the industry-level Finance & Accounting community the best fit. No specific job role or city focus is present, so the industry community is prioritized."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights director and CFO remuneration changes alongside employee salary dynamics during financial distress, making it relevant to salary and compensation discussions.",
+      "mapped_communities": [
+        "Salary & Compensation",
+        "Workplace Policies",
+        "General Topics"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "HinduBusinessLine",
+      "suggested_community_name": "Finance & Accounting"
+    }
+  },
+  {
+    "post": {
+      "title": "Gujarat decriminalises small mistakes in 11 laws",
+      "body": "This new move from Gujarat Assembly feels like a needed relief. They passed a Bill that decriminalises over 500 provisions across 11 laws, meaning small errors won’t lead to jail anymore but just penalties. For those of us working in MSMEs or startups, this might actually reduce unnecessary stress and legal fear from tiny slip ups. Wondering if this will really make running or working in small businesses easier around here? Has anyone seen how similar changes impacted work culture or business growth earlier?",
+      "tags": [
+        "Gujarat laws",
+        "MSME help",
+        "legal changes",
+        "startups",
+        "workplace stress"
+      ],
+      "suggested_communities": [
+        "LegalAndCompliance",
+        "StartupLife",
+        "MSMEIndia"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User789",
+        "is_op": false,
+        "text": "Finally kuch sahi hua, bosses or employees dono ka thoda tension kam ho jayega shayad. Criminal cases se toh har koi dar jaata hai, especially chhoti companies wali jagah. But, who ensures fines lagne ke baad bhi log rules follow karein? That’s my main doubt.",
+        "upvotes": 112,
+        "replies": [
+          {
+            "id": 2,
+            "author_label": "User790",
+            "is_op": false,
+            "text": "Agree, without strong enforcement fines bhi kabhi kabhi ignore ho jaate hain. Bas paper pe sab kuch thik lagta hai.",
+            "upvotes": 42
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "StartupGuy101",
+        "is_op": false,
+        "text": "Yeh toh start-ups ke liye ek badi rahat wali baat hai. Bahut baar chhoti galti pe case file hone se kaafi problems hoti thi. Penalty system se at least log chill karenge and focus business pe zyada karenge. Bas ab government ko is system ko sahi se implement karna hoga.",
+        "upvotes": 88,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "WorkLifeWoes",
+        "is_op": false,
+        "text": "I feel thoda unsure bhi hoon iske baare mein. Jab penalties badhte hain to companies ke upar extra tax ya fines ka load badhta hai. Chhoti companies ko aur burden banana accha nahi lagta, careful hona padega with details. Anyone heard if penalty rates are reasonable or high?",
+        "upvotes": 56,
+        "replies": [
+          {
+            "id": 5,
+            "author_label": "User555",
+            "is_op": false,
+            "text": "From what I read, fines replace jail time but are meant to be fairer, not heavy. Govt wants to encourage compliance, not punish too hard. Still, real test toh implementation ke baad hi milega.",
+            "upvotes": 24
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Wow, criminalize 516 provisions but fine it instead. Matlab koi bhi galti karni hai toh bas paisa de do, jail jaane ki zaroorat nahi. Achievement unlocked: corruption ka naya shortcut? 🙄",
+        "upvotes": 71,
+        "replies": []
+      },
+      {
+        "id": 7,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Haan guys, main bhi yehi soch raha tha ki ye change help karega startups ko stress se bachane mein, par sahi compliance bhi jaruri hoga warna ye system bhi futile ho jayega. Penalties ke amount detailed nahi mile abhi, but hope they keep it reasonable. Aap logon ke experience ya kisi ne kisi aur state me aise rules dekhe hain?",
+        "upvotes": 47,
+        "replies": []
+      },
+      {
+        "id": 8,
+        "author_label": "PolicyWatcher",
+        "is_op": false,
+        "text": "This is a positive reform, mostly to unclog judicial workload and encourage better business environment. But as others said, fair and transparent penalty rules matter, plus govt should keep a close eye to avoid misuse. Others states like Maharashtra tried similar stuff, with mixed success.",
+        "upvotes": 38,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "hopeful",
+      "length_estimate": "approx 350 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Gujarat Assembly passes Bill seeking to decriminalise 516 provisions under 11 laws across the state",
+      "brief": "→ The Gujarat Assembly passed a Bill introduced by state minister Balvantsinh Rajput aimed at decriminalizing 516 provisions under 11 laws in the state. → The amendments focus on replacing fines with monetary penalties, removing imprisonment for minor errors, and encouraging compliance through integrity rather than fear of punishment. → The Bill covers laws of various state departments including Urban Development, Labour, Skill Development, and Agriculture among others, and introduces a penalty-based fine structure to reduce the burden on the judicial system. → The primary objective is to provide relief from criminal liabilities for minor errors, support start-ups and MSMEs by reducing the fear of criminal proceedings for small mistakes, thereby fostering the MSME ecosystem. The Bill was approved by the House."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Miscellaneous",
+      "category": "miscellaneous",
+      "confidence": 85,
+      "detailed_reason": "The post title and description focus on a state-level legislative change affecting multiple laws and sectors including Urban Development, Labour, Skill Development, and Agriculture. However, it lacks focus on any specific job role or work-related discussion, nor does it specifically address an industry or city job market directly. Since it does not fall under role, industry, location, or career categories, it best fits under Miscellaneous as a general news update."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The Bill focuses on decriminalizing minor errors in laws related to Labour and Skill Development, providing relief for MSMEs and startups, which directly impacts the work environment and the business ecosystem.",
+      "mapped_communities": [
+        "Work Related",
+        "Startups",
+        "SMEs"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "HinduBusinessLine",
+      "suggested_community_name": "Miscellaneous"
+    }
+  },
+  {
+    "post": {
+      "title": "Women stuck in low-skill jobs in dairying sector",
+      "body": "It's frustrating to see women make up 82 percent of livestock workers but still mostly doing labor work with hardly any managerial roles. The news says lots of female workers are concentrated in some states but mostly handling low-skilled, tiring tasks. As someone interested in gender equality at workplaces, this makes me wonder why the system is not pushing for better skill training or leadership chances for these women. What do you think could actually help women move beyond just the manual work here?",
+      "tags": [
+        "women in agriculture",
+        "skill gaps",
+        "dairy sector",
+        "gender equality",
+        "livestock jobs"
+      ],
+      "suggested_communities": [
+        "RuralJobsIndia",
+        "WomenAtWork",
+        "SkillDevelopment"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User234",
+        "is_op": false,
+        "text": "Exactly yaar, women do 80 percent kaam but fir bhi boss wali seat unko milti nahi. Training programs toh sirf naam ke hote hain mostly. Management aur decision making se door hi rakha jata hai unhe.",
+        "upvotes": 88,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Bilkul, training agar acche se hoti toh situation thodi different hoti. Par jaise news me bata, ground level par bahut challenges hain jo skill develop hone nahi dete.",
+            "upvotes": 42
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "User785",
+        "is_op": false,
+        "text": "Itna labor intensive kaam karke bhi promotion milna mushkil hi hai kyu? Kuch log toh kehte hain women khud hi itni responsibility nahi lena chahati but problem system ki hai. Financial support aur policies thoda strict hone chahiye.",
+        "upvotes": 54,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "User998",
+        "is_op": false,
+        "text": "Honestly, jab tak local authorities aur cooperative societies women ko lead karne ka mauka nahi denge, tab tak kuch nahi badlega. Gender bias aur social norms ko todna padhega pehle. Training se jyada mindset change chahiye.",
+        "upvotes": 72,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "User456",
+        "is_op": false,
+        "text": "Jab tak bas unko low skill jobs tak hi limit karenge, tab tak women ka upliftment possible nahi. Thoda patience rakhna chahiye? Kai baar women khud confident nahi hote higher roles ke liye. Training ke sath mentorship programs bhi chahiye.",
+        "upvotes": 30,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "User789",
+            "is_op": false,
+            "text": "Is baat mein truth hai. Confidence bhi toh build karna hota hai, sirf skills nahi. Mentorship se kaafi farak padta hai struggle karne walon ko.",
+            "upvotes": 15
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "User666",
+        "is_op": false,
+        "text": "Waise ye poor representation jyada tar unhi 8 states me dekha ja raha hai jaha traditional roles very strong hote hain. Govt policies thi jaise National Dairy Plan par faida toh hoga par ground level tak kaise implement karein ye problem hai.",
+        "upvotes": 22,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "User321",
+        "is_op": false,
+        "text": "Bas, yahi kahna tha, abhi toh women ko bas rat race me niche niche kaam karne ko hi space mil raha hai. Sarcasm me kahu toh boss kabhi women hi hote to tab toh dairy ka dudh organic se bhi better hota :)",
+        "upvotes": 41,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "220 words total",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Uplift women in dairying",
+      "brief": "→ Employment in the livestock sector in India has shown significant growth, with 82% of cattle and buffalo workers being women. → However, the majority of women in this sector are engaged in low-skilled, labor-intensive tasks, with minimal representation in skilled or managerial roles. → The study highlights the concentration of female workers in eight states, with a need to address skill shortages and structural barriers for women's advancement. → Efforts to uplift women in dairying include promoting women-led cooperatives, providing training programs, financial support, and gender-sensitive policies in the dairy sector."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Miscellaneous",
+      "category": "miscellaneous",
+      "confidence": 85,
+      "detailed_reason": "The post focuses on employment patterns, gender representation, and empowerment initiatives in the dairy sector, which relates to agriculture and rural labor but does not match AmbitionBox’s predefined industry communities. It is not about a specific job role or functional topic, nor is it city or career advice focused. Therefore, it best fits into Miscellaneous as it discusses social and sectoral employment trends, training and policies without fitting into other strict categories."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news discusses employment trends and skill development needs for women in the dairy sector, directly relating to jobs, roles, and workplace policy improvements.",
+      "mapped_communities": [
+        "Work Related",
+        "Sectors (Agriculture & Dairy)",
+        "HR"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "HinduBusinessLine",
+      "suggested_community_name": "Miscellaneous"
+    }
+  },
+  {
+    "post": {
+      "title": "HIRE Bill and AI pressure on IT kya hoga ab?",
+      "body": "This new HIRE Bill is really messing with Indian IT firms. They want to put 25 percent tariff on work sent abroad, especially hits our US market, jahan Indian IT companies ka 60 plus percent export hai. Saath hi AI chal raha hai industry me, firms ko apna business model aur hiring strategies rethink karna padega. Ab ye sab milke kaafi uncertain lag raha hai for jobs aur growth, aur honestly, tension bhi hoti hai. Tum logon ko kya lagta hai, companies kaise survive karenge aur hum jaise log apni skills kaise update karein?",
+      "tags": [
+        "HIRE Bill",
+        "Indian IT industry",
+        "job security",
+        "AI impact",
+        "hiring challenges"
+      ],
+      "suggested_communities": [
+        "IT Professionals India",
+        "Tech Job Seekers",
+        "AI and Automation"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User459",
+        "is_op": false,
+        "text": "Ye bill toh basically hamari service export industry pe direct blow hai. US market itna bada hai, wo thoda affected toh hoga hi. Lekin companies ko AI ko apnana hi hoga, warna to poora khatam hone wala hai. Kya pata kuch naye roles bhi ban jaye upar se.",
+        "upvotes": 124,
+        "replies": [
+          {
+            "id": 101,
+            "author_label": "User459",
+            "is_op": false,
+            "text": "Aur sahi baat ye hai ki sirf salary cut se ya hiring freeze se problem solve nahi hoga, talent ko bhi upgrade karna padega.",
+            "upvotes": 45
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "TechWali86",
+        "is_op": false,
+        "text": "Companies already hiring top candidates only, ab AI tools bhi laga lo, tab bhi job market tight ho jayega. Log apne aap ko kaise secure rakh sakte hain? Reskilling se hi banta hai aajkal.",
+        "upvotes": 90,
+        "replies": [
+          {
+            "id": 102,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Bilkul sahi bola, TechWali86. Reskilling pe focus karna hi hoga warna AI and automation ke saath survive karna mushkil ho jayega. Par ye bhi tough hai kisi busy profile pe time nikalna.",
+            "upvotes": 56
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSalu",
+        "is_op": false,
+        "text": "Wah bhai, ab toh kahani khatam samjho, domestic companies ko bhi struggle karna padega. Aur bhai AI to humara dushman nahi dost ban gaya, par boss ka matbal sirf cut cost hi hai.",
+        "upvotes": 37,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "ConcernedCoder",
+        "is_op": false,
+        "text": "I feel bad for fresher log abhi entry leke karenge kya? Job market pe pehle se hi competition zyada tha, ab tariff lagaya toh aur tough ho jayega. Seniors ka advice needed, kaise prepare karein hum next level ke liye?",
+        "upvotes": 79,
+        "replies": [
+          {
+            "id": 103,
+            "author_label": "SeniorDev77",
+            "is_op": false,
+            "text": "Fresher guys, focus on learning AI basics, cloud stuff, aur coding strong karo. Jo fundamentals ache honge, wo har change ke baad survive karenge. Internship ya good project experience bhi helpful hoga.",
+            "upvotes": 54
+          },
+          {
+            "id": 104,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Agree with SeniorDev77, fresher logon ko apne skill set ko AI aur automation ke around shape karna important hai. Industry rapidly badal raha hai, isliye lazy rehna option nahi.",
+            "upvotes": 48
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "PolicyWatcher",
+        "is_op": false,
+        "text": "Honestly, HIRE Bill ka impact thoda overhyped lag raha hai. Yes, tariff lagega par companies apne models tweak karengi, shayad more onshore resources badhaye. US government bhi apni local jobs protect kar rahi hai, so isme global politics bhi hai thoda.",
+        "upvotes": 66,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks sabko replies ke liye. Lagta hai struggle hai par hope bhi hai. Koi aur insights ya company level news ho toh share karna please. Is situation me sabko milke chalna padega.",
+        "upvotes": 42,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "approx 320 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "HIRE Bill shakes up IT players",
+      "brief": "→ The HIRE Bill proposes a 25% tariff on work sent abroad, which could negatively impact Indian IT giants and other countries. → Indian IT firms heavily rely on the US market, with NASSCOM estimating over 62% of exports are to North America. → The rise of AI poses a significant challenge to the IT industry, forcing companies to rethink business models and operations. → Indian companies must now focus on hiring top-tier talent and investing in AI tools to stay competitive in a changing tech landscape."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Tech & Startups",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The post is focused on macro-level industry changes affecting IT companies, including regulatory impacts (HIRE Bill) and technological shifts (AI). While it touches on hiring and business model adaptations, the core content is about sector trends and strategic challenges within the technology industry, making 'Tech & Startups' the best fit. It does not focus on role-specific workflows or city-level issues, so the industry category for tech startups is prioritized as per rules."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news covers hiring challenges and the need for top-tier talent and AI skills in Indian IT firms amid policy changes and AI disruption.",
+      "mapped_communities": [
+        "IT Services",
+        "General Topics",
+        "Dev & QA"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "HinduBusinessLine",
+      "suggested_community_name": "Tech & Startups"
+    }
+  }
+]

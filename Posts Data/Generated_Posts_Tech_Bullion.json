@@ -1,0 +1,1163 @@
+[
+  {
+    "post": {
+      "title": "Trying to Make Sense of Multi Agent RAG Systems",
+      "body": "Building multi agent RAG stuff sounds way more complex than I thought. This article on DSPy and GEPA from source talks about making subagents and tuning them for legal tasks. For those of us trying to keep up with AI in the workplace, it’s frustrating how much detail and trial and error goes into these systems. Makes me wonder how many companies actually get this right and what that means for us needing these skills. Anyone here tried working with anything like this? How do you even start without getting overwhelmed?",
+      "source": "SOURCE",
+      "tags": [
+        "multi agent systems",
+        "AI tools",
+        "RAG optimization",
+        "DSPy",
+        "GEPA tuning"
+      ],
+      "suggested_communities": [
+        "AI Enthusiasts India",
+        "Data Science Talks",
+        "Tech Careers India"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User789",
+        "is_op": false,
+        "text": "Yaar, ekdum bogged down feel hota hai reading about these multi agent things. I tried once and end up confused with prompt tuning and how these subagents are supposed to work together.",
+        "upvotes": 45,
+        "replies": [
+          {
+            "id": 2,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly, it’s like jigsaw puzzles with no picture on the box. I think patience and tons of trial needed here.",
+            "upvotes": 20
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "TechieKumar",
+        "is_op": false,
+        "text": "Just advice from what ive seen: start small, build simple subagents before thinking about optimization. GEPA tuning is a headache but can improve results a lot otherwise waste of time.",
+        "upvotes": 60,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticPatel",
+        "is_op": false,
+        "text": "Oh great, just what I wanted — more complexity lol. Because AI wasn’t confusing enough.",
+        "upvotes": 30,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "Curious_Sharma",
+        "is_op": false,
+        "text": "Anyone has experience with these legal domain experiments? Matlab kaise practical hai or kaha fail hote hai usually? I’m curious if focus on prompt design really makes THAT much difference.",
+        "upvotes": 25,
+        "replies": [
+          {
+            "id": 6,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "From what I read, legal stuff is tough cause precision matters, so prompt design and tool strength really affect results mostly. If prompt thoda bhi off, system mess up easily.",
+            "upvotes": 15
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "author_label": "EmpathyRanjan",
+        "is_op": false,
+        "text": "I feel you, sometimes it’s just too much for one person to handle. These systems need team effort and clear roles, can’t expect one guy to nail everything.",
+        "upvotes": 40,
+        "replies": []
+      },
+      {
+        "id": 8,
+        "author_label": "PolicyWale",
+        "is_op": false,
+        "text": "Interesting that recent trends are on adaptive joint optimization. Means future jobs could need understanding of these frameworks deeply. Should we start learning this early or wait till more tools get user friendly?",
+        "upvotes": 35,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "approx 350 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Lessons & Practices for Building and Optimizing Multi-Agent RAG Systems with DSPy and GEPA",
+      "brief": "→ Article discusses lessons in building multi-agent RAG systems with DSPy and GEPA. → It guides through using DSPy to build subagents, optimizing with GEPA, and assembling lead agent. → Experiments in legal domain showed importance of strong tools, prompt design, and GEPA tuning. → Recent research trends focus on adaptive systems, joint optimization, and self-organizing agents."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post focuses on multi-agent RAG systems, DSPy, GEPA tuning, and adaptive system research, which are specialized topics in machine learning and data science. These signals strongly indicate it is about data pipelines and model optimization rather than general software engineering or other functional areas. According to classification priority, role-based technical topics related to data science come first. Therefore, Data Science & Analytics is the best fit as the community."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news covers AI/tech trends and skills development related to building and optimizing multi-agent RAG systems, which is relevant for job roles in software engineering and AI development.",
+      "mapped_communities": [
+        "Dev & QA",
+        "General Topics",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "Spec Driven Docs Actually Speeding Things Up?",
+      "body": "This sounds a bit too good to be true, docs helping speed? News says kiro’s Spec-Driven Loop creates docs automatically every run, making managers chill and devs faster (source: Let the Agent Fly). I’ve always felt docs slow me down, but here it’s like docs and speed are roommates now. Feels weird to think docs can be less of a pain and more helpful but maybe AI coding is changing game. Anyone tried something like this spec driven stuff? Does it really help or just new way to waste time?",
+      "source": "Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity",
+      "tags": [
+        "documentation",
+        "productivity",
+        "spec driven",
+        "AI coding",
+        "developer tools"
+      ],
+      "suggested_communities": [
+        "Software Developers India",
+        "Tech Product Managers",
+        "Agile Practitioners"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "CodeGirl89",
+        "is_op": false,
+        "text": "Bhaiya, docs always felt like ek extra burden, but if AI is generating it then might be different. Fir bhi trust karna mushkil hai boss, managers kabhi satisfied nahi hote bas. But if this kiro thing makes dev life easier, I am ready to try!",
+        "upvotes": 48,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Same yaar, trust karna mushkil but docs banate waqt time kaafi lagta tha. AI se jo auto generate hota hai, wo thoda chill lagta ab.",
+            "upvotes": 22
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Haan, docs will save time... right after we attend 10 meetings about docs. Seriously, docs and speed are like oil and pani.",
+        "upvotes": 32,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "TechieRaj",
+        "is_op": false,
+        "text": "I have seen spec driven approaches work if implemented properly with continuous feedback loops. Managers get what they want, devs get to focus on outcome rather than micro managing docs. But it needs proper tooling, else it’s the same old story.",
+        "upvotes": 67,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Agree Raj, tool kaafi matter karta hai. Without that it’s just another thing to follow. I guess AI coding is what makes kiro different.",
+            "upvotes": 16
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "HelperMehul",
+        "is_op": false,
+        "text": "If docs can be created as a byproduct of coding with AI help, that’s definitely a win. Try setting small tests or usage examples inside specs, it can also become a living doc so no need for separate stuff.",
+        "upvotes": 43,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "OverwhelmedPriya",
+        "is_op": false,
+        "text": "Yaar doc toh sabke liye headache hai. Even I have no clue how to keep it updated and useful. Such tools sound helpful but main toh scared ki mera extra kaam na ban jaye. Koi real feedback mile toh batao please.",
+        "upvotes": 39,
+        "replies": [
+          {
+            "id": 13,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Priya, mereko bhi pehle aise laga, par jitna padha aur dekha, AI assist karne se thoda kam lagta hai. Lekin yes, practical feedback bhi chahiye abhi.",
+            "upvotes": 21
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "approx 250 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity",
+      "brief": "→ Kiro's Spec-Driven Loop boosts velocity by generating auditable documentation artifacts every run. → Managers gain confidence while engineers maintain speed with Spec, Plan, and Trace artifacts. → Emphasis on speed and AI-assisted coding to improve productivity and shift focus to outcomes. → Spec-driven development leads to solid documentation in English, aiding in managerial persuasion."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Dev & QA",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post focuses on spec-driven development processes and how documentation artifacts improve velocity and confidence among engineers and managers. This directly relates to coding practices and developer workflows, which aligns with the Dev & QA community. The emphasis on AI-assisted coding, documentation, and maintaining speed ties into software engineering best practices, making it a strong fit here. According to the classification order, role communities like Dev & QA take precedence over other categories when the post relates to development work."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news covers a tech development involving AI-assisted coding and spec-driven development, which relates to skills and tech trends impacting engineering roles and productivity.",
+      "mapped_communities": [
+        "Dev & QA",
+        "Work Related",
+        "General Topics"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Dev & QA"
+    }
+  },
+  {
+    "post": {
+      "title": "AI Chatbots Ka Psychosis Risk? Seriously?",
+      "body": "Feels kinda scary that AI is now being linked to psychosis risk. Barclays analysts recently ranked AI models on how well they handle mental health red flags, according to some reports from Wall Street. As someone working with AI tools daily, I honestly never thought about how badly some models could mess up sensitive conversations. It makes me wonder how safe it is for users who might already be struggling with mental health issues. Kya aap logon ne kabhi aise situations dekhe ho jahan AI responses seemed tone deaf or harmful? Share karo yaar.",
+      "source": "Wall Street is beginning to worry about AI 'psychosis risk.' See which models ranked best and worst.",
+      "tags": [
+        "AI risk",
+        "mental health",
+        "chatbots",
+        "workplace tech",
+        "user safety"
+      ],
+      "suggested_communities": [
+        "TechTalk",
+        "MentalHealthAtWork",
+        "AI and Ethics"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "CodeNinja99",
+        "is_op": false,
+        "text": "Bhai ye AI kabhi kabhi simple baat bhi confuse kar deta hai toh mental health ko kaise samjhega? Lab toh bas stats pe kaam karta hai, empathy hona chahiye usme jo abhi missing hai for sure.",
+        "upvotes": 89,
+        "replies": [
+          {
+            "id": 101,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly yaar, empathy ki kami bada problem hai. OpenAI jaise companies ka effort dekh ke thoda hope milta hai but abhi distance zyada hai.",
+            "upvotes": 34
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "HRSeeker123",
+        "is_op": false,
+        "text": "Mental health ko seriously lena chal raha hai companies mein but jab AI hi confuse kare toh kya kare? I think training data pe kaafi kaam karna padega, warna aise models users ko galat advice denge jo dangerous ho sakta hai.",
+        "upvotes": 72,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Great, ab AI bhi paagal ho sakti hai. Next thing we know toh AI therapists banake human therapists ko out of job kar dega, fir apna dil ka dard AI ke saamne sunayenge.",
+        "upvotes": 42,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "DataDudeX",
+        "is_op": false,
+        "text": "I work in ML and yes, AI models aren’t perfect. In fact the psychosis risk factor is a great example of why we have to keep surveillance on outputs and embed strict fail-safes. Models need better datasets representing real user distress signals, warna joke hi ban jayenge.",
+        "upvotes": 55,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "ChaiPeTech",
+        "is_op": false,
+        "text": "Mujhe yaad hai ek baar ek chatbot ne mere dost ko itna confuse kar diya itni complicated baatein ki woh toh aur upset ho gaya. AI me thoda more human touch lani hogi, warna log trust hi nahi karenge.",
+        "upvotes": 60,
+        "replies": [
+          {
+            "id": 102,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "True that, trust sabse important cheez hai. Jab tak AI genuinely help karne nahi lagta, tab tak risk hi risk lagega.",
+            "upvotes": 27
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "PragatiWorker",
+        "is_op": false,
+        "text": "Yeh risk to zaroori tha pata hona, specially for workplaces using AI for employee wellbeing. Maybe we should see these reports as warning signs and push for better policies before things get worse.",
+        "upvotes": 38,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "about 230 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Wall Street is beginning to worry about AI 'psychosis risk.' See which models ranked best and worst.",
+      "brief": "→ Wall Street is beginning to worry about AI 'psychosis risk,' as AI models and chatbots raise concerns about exacerbating mental health problems for troubled users. → Analysts recently ranked AI models based on psychosis risk, with some models being better at handling delicate situations than others. → OpenAI is working on improving how their models recognize and respond to signs of mental and emotional distress to connect people with care. → Barclays analysts highlighted a study that rated AI models on various metrics, such as directing users toward medical help, pushing back against users, encouraging delusions, and fostering real-world connections."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The post focuses on AI models, their evaluation, and risks associated with model performance and behavior, which are core topics in Data Science & Analytics. Although it touches on mental health impacts, the primary discussion is about AI model ranking and analytics conducted by analysts—fitting the role-based data science category. No industry or location-specific content is present, so following priority, it fits best under this community."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights AI/tech trends affecting models used in workplaces and their handling of mental health, relevant to AI skill development and ethical use in jobs.",
+      "mapped_communities": [
+        "General Topics",
+        "Work Related",
+        "IT Services"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Insider",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "White hat hacks got them 48 million, seriously?",
+      "body": "This is some next level hustle by Koi. They raised 48 million after showing how risky fake software extensions can be, according to the news. Honestly, as someone stuck dealing with constant IT headaches and security threats, hearing about this white-hat prank actually working feels a bit hopeful. The fact they cracked 1 million in revenue in just 3 months and bagged big clients makes you wonder how many of us are ignoring such startup moves. Anyone else tried pushing similar creative solutions in your workplace, or is it always just firefighting here?",
+      "source": "A white-hat hacking gambit spawned $48 million in venture funding for cybersecurity startup Koi. Read its pitch deck.",
+      "tags": [
+        "cybersecurity",
+        "startup",
+        "venturefunding",
+        "whitehathacking",
+        "infosec",
+        "AI"
+      ],
+      "suggested_communities": [
+        "Cybersecurity Talk",
+        "Startup Hustle",
+        "Tech Professionals India"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User247",
+        "is_op": false,
+        "text": "Yaar normally IT teams just patch, patch, patch. Here they actually created a fake extension and used it to show the real risk that’s pretty smart move. Lekin humare offices me toh is tarah ki innovation kabhi nahi dekhi.",
+        "upvotes": 125,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "SecurityGuy99",
+        "is_op": false,
+        "text": "AI-based detection sounds promising but kahin yeh nai hoga ki tool itna complex ho jaye ki HR se leke senior management sab confused ho jaye. Practical tarike se chalana jaruri hai otherwise sab confusion badega. Plus shayad jyada paisa bhi kharcha ho jaye without proper ROI.",
+        "upvotes": 93,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Haan, bilkul! That confusion is real. I think Koi got lucky with pitch and results, but adapting is tough for many companies stuck in old ways. I guess startups have that edge to try risky stuff which corporate people avoid. Kya pata koi internal hackery hamare taraf bhi chal jaye someday :D",
+        "upvotes": 108,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "ChaiPeTech",
+        "is_op": false,
+        "text": "Kaafi companies abhi bhi think karte hai ki security bas antivirus ya firewall install karna hai. Fake extensions ke cases toh common hai but awareness zero. This startup's approach shows thoda risk lene mein hi fayda hai. I have tried suggesting similar ideas but sab badalte nahi. Sad but true.",
+        "upvotes": 77,
+        "replies": [
+          {
+            "id": 5,
+            "author_label": "User247",
+            "is_op": false,
+            "text": "Exactly bro... Awareness is the biggest problem. Log samajhte hi nahi hum kitne vulnerable hai. Courses ya training karwao, fir bhi kuch bhi nahi hota sometimes.",
+            "upvotes": 40
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "Overload5000",
+        "is_op": false,
+        "text": "This is definitely cool but I keep wondering if such startup stories make those already overwhelmed IT folks feel even more insecure. Like, 'Great, another tool, another thing to learn'. Hum log already mentally thak gaye in daily firefighting se.",
+        "upvotes": 55,
+        "replies": [
+          {
+            "id": 7,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Yea, that overwhelmed feeling is legit. I think many tools add to the noise actually. Sometimes simple processes help more than new complicated tech. Koi’s AI might reduce some load if implemented well, but yes that’s a big if.",
+            "upvotes": 28
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "author_label": "SarcasticSid",
+        "is_op": false,
+        "text": "So they hack to raise funds and we hack Monday mornings to survive. Life!! Startup magic lagta hai ya timepass? I dono me farak dikha toh batao!",
+        "upvotes": 38,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "hopeful",
+      "length_estimate": 350,
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "A white-hat hacking gambit spawned $48 million in venture funding for cybersecurity startup Koi. Read its pitch deck.",
+      "brief": "→ Cybersecurity startup Koi raised $48 million in venture funding to protect companies against software add-ons that can evade IT security measures. → Koi's founders, IDF alums, conducted a white-hat hacking gambit to demonstrate the need for their product by creating a fake extension that exposed security risks. → The startup, founded by Assaraf, Dardikman, and Kruk, surpassed $1 million in annual recurring revenue within three months and serves Fortune 50 and 500 companies across industries. → Koi plans to utilize the funding to expand its teams in sales, research and development, customer success, and technical support as it continues to develop AI-powered solutions to detect and prevent cybersecurity threats."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Tech & Startups",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The post primarily focuses on a cybersecurity startup called Koi, detailing its recent $48 million funding round, growth milestones, and future plans. This aligns well with the 'Tech & Startups' community, which is dedicated to startup growth, funding, and founder stories. While cybersecurity and IT security are implied, the post's emphasis is on the startup's business and funding rather than technical role-specific content or industry-wide cybersecurity policy. Hence, it meets the industry community criteria within Tech & Startups. The mention of customer success and AI solutions is secondary to the startup funding narrative."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights expansion in hiring and team growth in sales, R&D, customer success, and technical support, and covers AI/tech trends impacting cybersecurity roles.",
+      "mapped_communities": [
+        "IT Services",
+        "Dev & QA",
+        "Sales & Marketing"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Insider",
+      "suggested_community_name": "Tech & Startups"
+    }
+  },
+  {
+    "post": {
+      "title": "Oracle Stock Shooting Up But What About Us?",
+      "body": "Oracle stock jumped big time after reporting massive future revenue, according to Jefferies, who say it could go even higher (source: Jefferies). Their cloud and AI push seems to be driving this growth, which is cool but also makes me wonder about job growth here. Like, are these market moves actually helping folks inside the company or just the shareholders? Anyone from IT or sales side noticed changes because of this hype? Would love to know if this spike means better career chances or just noise.",
+      "source": "Jefferies analysts report on Oracle stock",
+      "tags": [
+        "Oracle",
+        "stock market",
+        "AI",
+        "cloud computing",
+        "career impact"
+      ],
+      "suggested_communities": [
+        "Tech Careers India",
+        "Indian IT Professionals",
+        "Stock Market Talk"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User456",
+        "is_op": false,
+        "text": "Yaar, stock going crazy is nice but job side toh thoda sa slow hi lag raha hai. Cloud and AI log bol rahe hain but hiring wise last quarter kuch khaas change nahi mila mere office me. Mostly contract log aur workload zyada, permanent position kam.",
+        "upvotes": 78,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "User789",
+            "is_op": false,
+            "text": "Same here bro, mera team bhi just extra pressure lekar chal raha hai, growth ke naam pe sab extra kaam. Salary hikes bhi abhi tak slow.",
+            "upvotes": 45
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "TechieRaj",
+        "is_op": false,
+        "text": "If you want my 2 cents, market optimism doesn’t always translate to faster internal growth. Companies hype stock for investors even when actual hiring freezes happen. Better keep upgrading skills in cloud and AI stuff if you wanna survive here.",
+        "upvotes": 69,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Exactly my worry yaar! Stock looks great from outside but ground reality lag kar raha. Trying to understand if investing time in new AI skills here will really pay off or just hype.",
+        "upvotes": 54,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSneha",
+        "is_op": false,
+        "text": "Stock skyrocket kar raha hai toh kya hua, humara bhi rocket jaldi launch hoga kya? Shareholders ko paisa, humko extra workload. Koi fair game nahi yeh market.",
+        "upvotes": 87,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "User456",
+            "is_op": false,
+            "text": "Exactly! Bas bas kar yaar, mera dimag bhi stock aur AI se overheat ho raha hai.",
+            "upvotes": 37
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "EmpatheticAnil",
+        "is_op": false,
+        "text": "I get the frustration guys, but Oracle big plans in AI cloud might open new roles soon. Just have to survive this phase and be ready to jump in. Hope we get support from management too.",
+        "upvotes": 64,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "PolicyNitin",
+        "is_op": false,
+        "text": "Looking at Jefferies forecast, internal focus should be on multi cloud database revenue growth. If Oracle starts new projects accordingly then big chance of team size increase. Keeping eye on company direction and quarterly updates will help us prepare better.",
+        "upvotes": 49,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "approx 320 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Oracle's stock skyrocketed. Jefferies analysts say there could be even more room to run.",
+      "brief": "→ Oracle's stock surged 36% after reporting record future revenue obligations, reaching $455 billion in remaining performance obligations in its fiscal first quarter. → Jefferies analysts foresee further potential, raising Oracle's stock price target to $360, attributing growth to cloud and AI developments. → Oracle's AI-fueled cloud expansion is seen as a key driver for future stock appreciation amid accelerating demand for AI workloads, according to analysts. → Despite some revenue aspects falling short of expectations, Oracle's stock price jump signals optimism about its future outlook, with Jefferies projecting robust growth in Oracle Cloud Infrastructure and multicloud database revenue."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "BFSI",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The post focuses on Oracle's stock price movement, financial analyst projections, and market outlook in cloud and AI, which directly relate to financial services and investment sectors. It talks about stock appreciation, revenue obligations, and market valuation, signaling relevance to the BFSI community. The content is clearly sector-level financial news rather than role-specific or city-specific topics, making BFSI the appropriate industry community according to the classification priority."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights AI and cloud technology trends at Oracle, which impact skills and jobs in the IT sector, relevant for tech professionals and those monitoring AI-driven career shifts.",
+      "mapped_communities": [
+        "Dev & QA",
+        "IT Services",
+        "Work Related"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Insider",
+      "suggested_community_name": "BFSI"
+    }
+  },
+  {
+    "post": {
+      "title": "AI won’t replace traders fully, but still feels overwhelming",
+      "body": "Trading is getting more crazy with AI but apparently humans still have a role. Robinhood's CEO said AI won’t take over all parts of trading, according to the news from Robinhood itself. I get that people love the thrill and decision-making but still feels like new tech is gonna change a lot of work routines, right? Feels kinda insecure for those of us trying to keep up with constant upskilling. How are you guys handling this AI wave in your finance or trading roles?",
+      "source": "Robinhood",
+      "tags": [
+        "AI in trading",
+        "finance jobs",
+        "tech shift",
+        "upskilling",
+        "workplace changes"
+      ],
+      "suggested_communities": [
+        "FinTech Enthusiasts",
+        "Career Growth India",
+        "Stock Market Traders"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "TraderJoe",
+        "is_op": false,
+        "text": "It’s easy to say humans won’t be replaced but AI is improving so fast, honestly it's scary. Abhi toh small decisions AI le raha hai, next dekho full takeover hoga. But I guess passion is a real thing, kabhi kabhi algorithm can’t replace gut feeling.",
+        "upvotes": 82,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "True yaar, gut feeling bhi important hai par AI ki speed aur data processing se compete karna tough ho raha hai. Maybe balance hi best rahega.",
+            "upvotes": 34
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "FinanceGuy88",
+        "is_op": false,
+        "text": "Mere hisaab se AI ko apne advantage mein lena chahiye, na ki dushman samjho. Jo log AI tools sahi se use karenge, wahi aage bachenge. So upskilling aur smart automation is the key.",
+        "upvotes": 95,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SkepticSaurabh",
+        "is_op": false,
+        "text": "Oye ai AI! Jab tak humans decide karenge tab tak fayda hai warna pura robot hi dhandha kar lega and humans slow pad jayenge. All this hype might just be overblown to sell new tech products.",
+        "upvotes": 38,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "EmpathyEmma",
+        "is_op": false,
+        "text": "Feeling insecure is natural. I work in finance too and sometimes lagta hai job stable nahi because of these tech shifts. But human creativity and judgement can’t be coded easy, so hold on to that atleast.",
+        "upvotes": 57,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "TechPolicyRaj",
+        "is_op": false,
+        "text": "This caution from CEOs makes sense. AI should be regulated as a tool not a replacement. Companies need policies so humans stay involved in decisions especially in risky markets, otherwise too much reliance can backfire badly.",
+        "upvotes": 44,
+        "replies": [
+          {
+            "id": 51,
+            "author_label": "SkepticSaurabh",
+            "is_op": false,
+            "text": "Par policy banana easy nahi hai jab profit pressure ho. Usually regulation slow padta hai market speed se.",
+            "upvotes": 17
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks for all views guys, really helps to know I’m not alone feeling this mix of hope and confusion. Definitely need to focus on learning tools too, just not sure if tech will ever leave emotional part of trading behind.",
+        "upvotes": 50,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "insecure",
+      "length_estimate": "approx 350 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Robinhood's CEO says AI won't fully take over trading",
+      "brief": "→ Robinhood's CEO, Vlad Tenev, stated that AI won't entirely replace human aspects of trading. → Tenev emphasized that people enjoy trading and are passionate about it, highlighting the lasting human element in the industry. → While AI will play a significant role as a platform shift, Tenev believes humans will continue to make key trading decisions. → CEOs of Goldman Sachs and Citadel also expressed caution about AI fully taking over trading, noting its role as a productivity enhancement tool rather than a revolutionary force."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "BFSI",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The post centers on statements from CEOs in trading firms including Robinhood, Goldman Sachs, and Citadel, referencing the intersection of AI and human roles in financial trading. This aligns directly with BFSI as it deals with banking and financial services sector topics. Since the post is about sector-level trends and industry thought leadership rather than role-specific tasks or location-based issues, the Industry community BFSI is the best fit. The discussion about AI in trading reflects broader financial sector trends and regulatory outlooks that BFSI covers."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news discusses AI's impact on trading roles and decision-making, which relates to AI/tech trends affecting jobs in BFSI sector.",
+      "mapped_communities": [
+        "BFSI",
+        "Work Related",
+        "General Topics"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Insider",
+      "suggested_community_name": "BFSI"
+    }
+  },
+  {
+    "post": {
+      "title": "Amazon’s Zoox robotaxis rolling out in Vegas, then SF",
+      "body": "This feels like something out of a sci-fi movie now. Amazon-backed Zoox just launched free robotaxi rides in Las Vegas to collect feedback, says the news. Thinking about how this tech might shake up jobs or even how we get around daily makes me kinda nervous and curious. I work in tech so new automation means both chances and challenges for us. Anyone here tried these rides or worked on similar stuff? How do you see this affecting jobs or commuting in future cities?",
+      "source": "Amazon's Zoox launches robotaxi with free rides in Las Vegas. San Francisco is next.",
+      "tags": [
+        "robotaxis",
+        "automation",
+        "future of work",
+        "Amazon",
+        "urban mobility",
+        "tech trends"
+      ],
+      "suggested_communities": [
+        "Future of Work",
+        "Automotive Tech",
+        "Urban Mobility"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User789",
+        "is_op": false,
+        "text": "Free rides sound nice but feeling kinda overwhelmed about how soon driver jobs might start disappearing. Ye sab automation ka impact kaafi jaldi toh dekhne ko milta jaa raha hai.",
+        "upvotes": 120,
+        "replies": [
+          {
+            "id": 10,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly yaar, so much dependency on tech banega, par uska impact hum real log kaise handle karenge thoda unclear hi lagta.",
+            "upvotes": 45
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "TechieRana",
+        "is_op": false,
+        "text": "Try karo robotaxi jab chance mile, experience bada different hota hai. Internships ya projects me automation pe kaam karna chahiye to be ready for future jobs. Skills update is the only way for safe rehna in such tech driven times.",
+        "upvotes": 85,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSoni",
+        "is_op": false,
+        "text": "Great, ab traffic police ke baad driver bhi bina job ke reh jayega, gaadi khud chalani lagi...hum bhi chalna shuru kare bus, gym ki saving ho jayegi!",
+        "upvotes": 60,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SkepticalNikhil",
+        "is_op": false,
+        "text": "I wonder how safe these robotaxis are in real city traffic with unpredictable drivers and pedestrians. Vegas strip thoda easy route lagta but San Francisco ka traffic toh next level hai. Risk kaise manage karte hai pata nahi.",
+        "upvotes": 72,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Yeh mera bhi doubt tha, hopefully testing phase me safety & feedback lena isiliye important hai. San Francisco test dekhna badi baat hogi.",
+            "upvotes": 38
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "PracticalPooja",
+        "is_op": false,
+        "text": "Jo log tech me naye hai wo iss direction me skills le lo, automation and AI wale courses zaroor karo. Job landscape change hoga toh adapte karna jaruri hai. Free rides ka feedback dena bhi helpful rahega for better product.",
+        "upvotes": 55,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "EmpathyRaj",
+        "is_op": false,
+        "text": "It’s exciting yet scary, specially for those who depend on driving jobs. Hope companies and govt policies consider reskilling people who might lose jobs because of robots.",
+        "upvotes": 48,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "230 words total",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Amazon's Zoox launches robotaxi with free rides in Las Vegas. San Francisco is next.",
+      "brief": "→ Amazon's Zoox, an Amazon-backed startup, has launched its robotaxi service, starting in Las Vegas. → The robotaxi service offers free rides for the public along limited destinations on the iconic Las Vegas Strip to gather feedback. → Zoox's purpose-built robotaxis have no steering wheel, pedals, or driver's seat, accommodating up to four passengers facing each other. → Zoox plans to expand its robotaxi service to San Francisco, aiming to scale the fleet between the two cities to meet growing demand."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Tech & Startups",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The post highlights Amazon-backed Zoox launching a robotaxi startup service and its plans to expand. This fits the Tech & Startups community since it addresses startup growth, innovative product launches, and scaling within new markets. Although the post touches on technology, it is more about the startup's business and expansion rather than the specific tech implementation or software development, making Tech & Startups the best fit rather than Dev & QA or Hardware & Networking. The focus on market expansion to Las Vegas and San Francisco supports the startup growth theme."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "News highlights a tech innovation in autonomous vehicles indicating AI/tech trends affecting future jobs and roles, relevant for professionals in engineering and tech sectors.",
+      "mapped_communities": [
+        "General Topics",
+        "IT Services",
+        "Dev & QA"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Insider",
+      "suggested_community_name": "Tech & Startups"
+    }
+  },
+  {
+    "post": {
+      "title": "Design systems are a mess again in 2025?",
+      "body": "I can’t believe we still struggle with design consistency even in 2025. According to the latest from the digital world, inconsistent buttons, colors or tone can seriously hurt conversions and brand image (source). For those of us working in design or product teams, this means more headaches making sure everyone follows the same system. Honestly, it feels like no matter how clear the system is, someone always ends up doing their own thing. Anyone here got tips or experiences on actually getting teams to stick to design systems without losing their mind?",
+      "source": "Best Practices for Creating Consistent Design Systems in 2025?",
+      "tags": [
+        "design consistency",
+        "design systems",
+        "brand identity",
+        "product design",
+        "team collaboration"
+      ],
+      "suggested_communities": [
+        "UX Designers India",
+        "Product Managers Hub",
+        "UI/UX Discussion"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User482",
+        "is_op": false,
+        "text": "Yaar, I work in a startup and trust me, gaadi chalane wale sab apne hisaab se steer lete hai. Design guidelines toh banate hai but implementation zero. So frustrating when product and design teams don’t sync properly.",
+        "upvotes": 110,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "User847",
+            "is_op": false,
+            "text": "Lol exactly, and then they blame the design team for delays. Like beautiful nahi bana sakte jab alag alag log apni audi chala rahe hain.",
+            "upvotes": 55
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "DesignGeek",
+        "is_op": false,
+        "text": "Consistency ke liye mera ek trick hai — ek central repo jahan har cheez documented ho with real examples not just colors or fonts but usage too. Phir weekly checks with devs and PMs. Helps but requires constant follow up.",
+        "upvotes": 98,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "UI_King",
+        "is_op": false,
+        "text": "Frankly, agar team me culture nahi hai ki design ko follow karna hai toh system koi bhi banao fayda nahi. Leadership se support aur proper onboarding zaruri hai warna sab apni marzi se kaam karenge.",
+        "upvotes": 65,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "User992",
+        "is_op": false,
+        "text": "I feel bad for freshers who join expecting neat design system workflows but get thrown into chaos. They’re clueless why brand colors keep changing from one screen to other.",
+        "upvotes": 40,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly this! I was expecting some smooth sailing with design systems but most places still treat it like an afterthought. Hoping more teams realize its importance soon.",
+            "upvotes": 31
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "SarcasticSaurabh",
+        "is_op": false,
+        "text": "Design system? More like design wish list every project. Koi follow karta nahi but sab bataata zaroor hai ki consistency important hai. Haha.",
+        "upvotes": 80,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "TechieNeha",
+        "is_op": false,
+        "text": "Integration between design tools and dev pipelines helps a lot. Like when code snippets, tokens and style guides auto sync toh errors kam hote hain. Without that manual copying chaos badhta hi rehta.",
+        "upvotes": 75,
+        "replies": [
+          {
+            "id": 13,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "True! Auto syncing tools sound like the future, but many startups still can’t invest in that. Wish everyone had access to such workflows.",
+            "upvotes": 22
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "approx 320 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Best Practices for Creating Consistent Design Systems in 2025?",
+      "brief": "→ The digital world is evolving rapidly in 2025 with the emergence of new platforms and changing user expectations. → Inconsistency in design elements like buttons, colors, and voice can negatively impact conversions and dilute brands. → A design system is crucial as it serves as the source of truth ensuring consistency in brand representation across various teams and platforms. → The most successful digital products in 2025 are those that prioritize consistent design systems."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Design",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The title and description discuss creating consistent design systems, dealing with design elements like buttons, colors, and user experience. These topics fall squarely within UX/UI and design systems, making the 'Design' community the best fit. According to the classification priority, role communities are considered first, and Design is the appropriate functional community for such topics. Other communities like Product Management or Marketing were considered but the emphasis on design fundamentals directs it to Design."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights the importance of consistent design systems, which relates to skills development and role-specific updates for designers and product teams in tech roles.",
+      "mapped_communities": [
+        "Role Functions: Product Management",
+        "Role Functions: Design & UX",
+        "Skills & Learning"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Design"
+    }
+  },
+  {
+    "post": {
+      "title": "Data Privacy Wins Big at ETHIstanbul Hackathon",
+      "body": "Privacy breaches are honestly getting too common in data stuff. DecentralAI just won first place at ETHIstanbul for a project that promises to keep data super private while still training AI models, source says. Feels like this could actually change how data is sold and used, maybe more fair for everyone. But I wonder, in our own companies, how many folks really care about this balance between privacy and usefulness? Anyone seen similar ideas being tested in real workplaces?",
+      "source": "Share Everything, Reveal Nothing, Earn Forever: How DecentralAI Won ETHIstanbul",
+      "tags": [
+        "data privacy",
+        "AI",
+        "blockchain",
+        "hackathon",
+        "ETHIstanbul"
+      ],
+      "suggested_communities": [
+        "Tech Innovations",
+        "Data Professionals",
+        "AI & Machine Learning"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "DataGeek42",
+        "is_op": false,
+        "text": "Ye privacy ka drama toh real hai boss. Aaj kal sab data pe itna reliant hai but privacy ko seriously lena koi easy task hi nahi. DecentralAI ka idea toh thoda promising lag raha hai, but implementation mein dekhna padega.",
+        "upvotes": 75,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly yaar, theory easy lagti but practical challenges bahut honge. Dekhna hai ki aage kaise scale karte hain ye log.",
+            "upvotes": 20
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "CodeMonk",
+        "is_op": false,
+        "text": "Blockchains and AI dono hi buzzwords toh hain but joint mein chalana matlab headache hi create karenge. Privacy guarantee sounds fancy but public chains mein security compromise hota hai usually. Trusted execution environment thoda promising hai though.",
+        "upvotes": 65,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSarkar",
+        "is_op": false,
+        "text": "Oh wow, ek aur 'fair economic model' wali scheme. Jab tak paisa banega, data privacy ka #scene hi nahi banega. Bas buzzwords sunke khush hone ki aadat chhodo yaar.",
+        "upvotes": 40,
+        "replies": [
+          {
+            "id": 31,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Haha, I get it bro, market mein sab buzzword race mein lage hain. But agar kuch log is taraf serious kaam kar rahe hain, toh deserves thodi hope dikhane ki baat bhi hai na.",
+            "upvotes": 15
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "HRChaiAddict",
+        "is_op": false,
+        "text": "Mujhe lagta hai AI industry mein jobs ke liye bhi ye important hai. Privacy concerns ke chakkar mein regulations toh badhenge hi. Jobseekers ko skills alongside privacy compliance samajhna zaroori hai.",
+        "upvotes": 50,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "TechStrategyGuy",
+        "is_op": false,
+        "text": "Jab tak data privacy ko legally enforceable nahi banayenge tab tak companies sirf profit dekhengi. Technology acchi hai par policy enforcement aur awareness bhi usi tarah important hai.",
+        "upvotes": 55,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "hopeful",
+      "length_estimate": "approx 320 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Share Everything, Reveal Nothing, Earn Forever: How DecentralAI Won ETHIstanbul",
+      "brief": "→ DecentralAI won 1st place in the 'Blockchain + AI = ?' category at ETHIstanbul hackathon for their project focusing on data privacy and AI model training. → Traditional data marketplaces often compromise data privacy by pooling and selling entire datasets, raising concerns about sensitive information. → DecentralAI addresses this by utilizing trusted execution environments and encryption to ensure privacy while allowing valuable data to contribute to AI model training. → Their approach includes a three-pillar strategy: Complete Privacy Guarantee, Real Data Value, and a Fair Economic Model. The project aims to revolutionize the data economy."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The content focuses on a project that integrates AI and blockchain to enhance data privacy while training AI models, which directly pertains to data science concepts and analytics tools. The mention of data marketplaces, model training, and privacy techniques signals relevance to data pipelines and ML performance. According to the prioritization, functional role communities come first, and this post fits well within Data Science & Analytics rather than other functional or industry categories."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights an AI and blockchain tech trend with implications for skills and roles in the tech industry, relevant for professionals interested in AI advancements and data privacy technologies.",
+      "mapped_communities": [
+        "Dev & QA",
+        "General Topics",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "AI is everywhere now, even in washing machines?",
+      "body": "This AI stuff getting out of hand I swear. News from Scople.AI about how AI is moving beyond usual text tools and smart homes into stuff that tracks our daily habits without sharing data. Sounds cool but also kinda creepy for people like me who just want some privacy at home. Imagine working in IT, then your washing machine starts giving you feedback on your clothes choice or routines? Does anyone else find this AI wave confusing or hard to keep up with at work and life? How are you handling these AI tools popping up everywhere?",
+      "source": "Scople.AI",
+      "tags": [
+        "AI tech",
+        "smart homes",
+        "privacy concerns",
+        "daily habits",
+        "work tech",
+        "future gadgets"
+      ],
+      "suggested_communities": [
+        "TechTalks",
+        "WorkLifeBalance",
+        "AIInnovators"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User247",
+        "is_op": false,
+        "text": "Exactly yaar, I feel the same. AI makes work and home smarter, but I dont wanna my fridge tattling on me haha. Also it’s tough to keep learning new apps and tools every month. Kabhi kabhi lagta hai human ho ke hi zyada easy tha.",
+        "upvotes": 154,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "User368",
+            "is_op": false,
+            "text": "Fridge tattling is serious lol. Par privacy kaafi important hai otherwise sab personal data leak ho jayega easily.",
+            "upvotes": 42
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "TechGeek77",
+        "is_op": false,
+        "text": "From work angle, I think AI like this can be both threat and help. If it gives real-time feedback without data leaks, good. But firms need to clarify data usage policies to avoid confusion. I keep telling my company to be upfront about AI monitoring. Otherwise gaand phat sakti hai later.",
+        "upvotes": 98,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Happy to see some relate. The privacy bit really stuck with me too, especially that Scople.AI thing not storing or sharing images. Feels like they get how annoying it is to share everything nowadays. Still, adapting to these AI tools at work + home is taxing.",
+        "upvotes": 67,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Oh great, next whatever you wear will be judged by AI in washing machines. Kya karein, ab hamari lives AI selfies lene wali hain.",
+        "upvotes": 83,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "User247",
+            "is_op": false,
+            "text": "Hahaha sahi bola, AI selfie lene ki age aagayi. I’m waiting for smart fridge to roast me too.",
+            "upvotes": 28
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "PragmaticPriya",
+        "is_op": false,
+        "text": "If you feel overwhelmed, start small. Pick one AI tool at work or home, learn it properly. Don’t jump on every new thing. Privacy settings bahut check karna zaroori hai and don’t hesitate to say no agar lagta hai zyada intrusive ho raha hai.",
+        "upvotes": 112,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "InsecureIndra",
+        "is_op": false,
+        "text": "I wonder if this AI will judge my coffee habits next, bhai I barely manage work stress and now AI wants report card also. Kab tak chill kar paenge yaar?",
+        "upvotes": 59,
+        "replies": [
+          {
+            "id": 14,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Haha, I feel you. Work stress plus AI ka feedback loop thoda zyada lagta hai sometimes. Hope they keep it helpful and not annoying.",
+            "upvotes": 34
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "350 words approx",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "What’s Next for AI: From Text Generators to Smart Washing Machines?",
+      "brief": "→ AI has advanced to the point where it is transforming various industries, such as smart homes and digital health, creating new markets and reshaping daily habits. → AI is expected to evolve further to address new types of problems that were previously unsolvable or unrecognized as needs, leading to innovative solutions with broader applications. → Scople.AI is a personal tool designed to analyze and digitize daily life data, offering insights into habits and environments to help individuals make smarter choices based on real-time feedback. → Scople does not store or share visual data with users or third parties, ensuring privacy and emphasizing its role as an extension of oneself to enhance self-awareness and focus on what truly matters."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The content discusses AI technology progress and the use of a personal tool for analyzing and digitizing daily life data, emphasizing data-driven insights and feedback. These signals strongly relate to machine learning and analytics themes, making it suitable for the 'Data Science & Analytics' community. Since the post is about a role-related domain involving AI and data, it fits highest in the role community category per classification priority."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights AI trends impacting various industries and introduces a tech tool related to data analysis and smart decision making, which is relevant to skills and AI/tech trends affecting jobs.",
+      "mapped_communities": [
+        "General Topics",
+        "Dev & QA",
+        "IT Services"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  }
+]

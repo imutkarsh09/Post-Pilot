@@ -1,0 +1,1170 @@
+[
+  {
+    "post": {
+      "title": "This Malware Database is a Bit Overwhelming",
+      "body": "Man, there are over 50 malware techniques already in this database and they add one every week. According to the news from Malware Development Technique Database, users get first 3 techniques free and need premium for more stuff like code and videos. For anyone working in security or malware analysis, it feels like you gotta keep learning nonstop just to catch up. I can’t imagine how realistic it is to stay updated with all this info coming so fast. Anyone here using stuff like this? How do you keep up without losing your mind?",
+      "source": "Malware Development Technique Database",
+      "tags": [
+        "malware",
+        "cybersecurity",
+        "learning curve",
+        "infosec",
+        "tech updates"
+      ],
+      "suggested_communities": [
+        "Cybersecurity Professionals",
+        "InfoSec Discussions",
+        "Tech Career Advice"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User234",
+        "is_op": false,
+        "text": "It's honestly exhausting. Every week ek naya technique, and then code snippets, proofs, reports... kaun time karta hai itna sab? I tried once but gave up halfway. Just too much.",
+        "upvotes": 150,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "SecGeek101",
+        "is_op": false,
+        "text": "If you want to keep up, best bet is to pick a few top techniques relevant to your work and master those instead of trying to learn everything. Trust me, focusing saves your sanity and actually helps in real cases.",
+        "upvotes": 90,
+        "replies": [
+          {
+            "id": 21,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Yea that's a good point, focusing on specific stuff might be better than chasing every update.",
+            "upvotes": 40
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "ChaiPeCharcha",
+        "is_op": false,
+        "text": "I’m still new to malware research and this database sounds intimidating. But at least getting first 3 techniques free is something. I’m hoping it helps me learn more without paying right away.",
+        "upvotes": 60,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SkepticSam",
+        "is_op": false,
+        "text": "Honestly, I don’t get why these databases keep adding new stuff weekly. Are attackers really that quick or is it more marketing? I feel like detection techniques always lag behind anyway.",
+        "upvotes": 75,
+        "replies": [
+          {
+            "id": 41,
+            "author_label": "User234",
+            "is_op": false,
+            "text": "Exactly yaar, lagta hai market bhi create kar rahe hain fake urgency ka, but real-world impact thoda slow hota hai in updates.",
+            "upvotes": 25
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "PolicyWatcher",
+        "is_op": false,
+        "text": "From a policy side, having such databases can help standardize detection methods and share info. But only if companies actually invest time integrating that knowledge instead of just collecting it.",
+        "upvotes": 55,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks for the tips everyone! Seems like focusing is the way to go and not trying to learn 50+ techniques at once haha. If anyone finds good ways to use this stuff effectively, please do share.",
+        "upvotes": 45,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "approx 300 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Malware Development Technique Database",
+      "brief": "→ The Malware Development Technique Database offers a continuously expanding library of techniques, with over 50 techniques currently included and a new one added weekly. → Users can explore the first 3 techniques for free and access additional content such as code, proof of concept videos, and detection PDFs with premium plans. → The database serves as a living resource for staying updated on the latest insights and research in malware development. → With the ability to choose from premium plans for more in-depth analysis and advanced scanning, users can stay ahead in understanding malware techniques."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Dev & QA",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The post centers around a database of malware development techniques, including code samples, detection methods, and proof of concepts. These topics align closely with the interests of software developers and QA teams who deal with security, testing, and code review practices. Since the post is about technical content related to software development and security tools rather than general security policy or industry-specific news, it fits best under the 'Dev & QA' community. This reflects the first priority in classification which is the role-based community."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights a valuable tech resource for malware development skills, which is relevant for professionals in cybersecurity and IT roles focusing on learning and tech trends.",
+      "mapped_communities": [
+        "Dev & QA",
+        "IT Services",
+        "Work Related"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Dev & QA"
+    }
+  },
+  {
+    "post": {
+      "title": "Skills Gap In SA Still Feels Like A Maze",
+      "body": "Skills development sounds good on paper but honestly, it still feels so tangled out here. I read that South Africa’s Skills Development Act tries to push training for ICT and close the skills gap, says the news from the source. But many of us still face a mismatch in skills and employers don’t seem fully motivated to invest as promised. For someone trying to level up or even get hired, this feels exhausting and unclear. What’s been your experience with training programs or upskilling in this system?",
+      "source": "Scaling Skills Development Programs in South Africa",
+      "tags": [
+        "skills gap",
+        "training issues",
+        "South Africa",
+        "ICT skills",
+        "employer investment"
+      ],
+      "suggested_communities": [
+        "Career Growth",
+        "Skills & Training",
+        "South Africa Work Scene"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User459",
+        "is_op": false,
+        "text": "Sach bolun to, govt wali schemes thodi complicated hain, and companies jab tak apne faayde na dekhen, tab tak invest kam hi karte. Mere area mein bhi training ka plan toh tha, par end mein kuch banda bhi fayda nahi mila. The gap is real yaar!",
+        "upvotes": 62,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "Techie_101",
+        "is_op": false,
+        "text": "Boss, ICT ka toh demand hai, par training affordable nahi lagti. Jo employer bolta hai incentive milega, uske peeche bahut paperwork hota hai and small companies give up. Agar koi insider bata de kaise real me benefit uthaye usse toh bada fayda hoga.",
+        "upvotes": 85,
+        "replies": [
+          {
+            "id": 3,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly! I feel jo bhi incentives hain wo bahut complex hain. Even I was trying to check for some courses but details scattered hain, kisi ne straight cheat sheet nahi di.",
+            "upvotes": 48
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "Pragya89",
+        "is_op": false,
+        "text": "I get it, this whole process can be very frustrating. I tried upskilling through some govt courses but infrastructure or trainers never matched what was promised. There’s hope though, if they really fix execution, things can change.",
+        "upvotes": 70,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "PolicyGuru",
+        "is_op": false,
+        "text": "The National Skills Authority and related frameworks do exist but they lack ground-level active monitoring. Noises are made around strategies but actual employer buy-in chahiye to make impact, or else it’s just paper ka khel.",
+        "upvotes": 55,
+        "replies": [
+          {
+            "id": 6,
+            "author_label": "User459",
+            "is_op": false,
+            "text": "True, PolicyGuru! Jitni planning hoti hai, execution utni nahi. Employers bhi thoda apna role seriously lena hoga.",
+            "upvotes": 28
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "author_label": "SarcasticWiz",
+        "is_op": false,
+        "text": "Training hai ya ek bada trap? Jisko sikhaana tha, vo ya toh sikha nahi paaye, ya phir training dene wale khud confuse. Mera toh bas itna hi kehna hai ki next time koi skill seekhni ho, apne bacchon ko personal tutor dilwa do!",
+        "upvotes": 42,
+        "replies": []
+      },
+      {
+        "id": 8,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks for all this. Lagta hai sab ka experience almost same hai. I guess we really need to push for better clarity and real employer participation, warna yeh sab plans bas headlines tak hi reh jayenge.",
+        "upvotes": 39,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "330 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Scaling Skills Development Programs in South Africa",
+      "brief": "→ South Africa's Skills Development Act is crucial for bridging the ICT skills gap by establishing a strong financial and institutional framework that incentivizes training investment. → Challenges include a workforce skills mismatch, low productivity levels, and the need for strategic interventions to enhance global competitiveness. → Policy frameworks supporting skills development in South Africa include the National Qualifications Framework, National Skills Authority, and National Skills Development Strategy. → The Skills Development Act contributes by addressing the ICT skills gap, incentivizing employer investment, ensuring accessible training, and enhancing economic resilience."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Human Resources (HR)",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post centers on the Skills Development Act and institutional frameworks that support training investments and workforce skills enhancement, which falls squarely under HR functions like L&D, policy, and performance improvement. It addresses systemic workforce issues and training incentives, aligning it with Human Resources rather than industry-specific or location-specific communities. According to the classification priority, role communities take precedence, and this content best fits HR strategies around skills and training development."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news focuses on skills development programs addressing ICT skills gaps and employer investment in training, directly impacting jobs, skills, and workforce development.",
+      "mapped_communities": [
+        "Work Related",
+        "IT Services",
+        "Skill Development & Learning"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Human Resources (HR)"
+    }
+  },
+  {
+    "post": {
+      "title": "Good UX design feels like flowing, but is it always that smooth?",
+      "body": "It sounds nice when they say good UX is like peacefully navigating a rafting trip. The news from What Is the Psychology Behind Good UX Design? talks about UX being calm, empathetic, and almost healing for users. But honestly, in real projects I mostly feel overwhelmed juggling everything and still trying to keep designs simple and user-friendly. How do you all keep your designs so flexible and playful when clients or deadlines just push for quick fixes? Any tips on staying calm and keeping the user’s mental peace in mind?",
+      "source": "What Is the Psychology Behind Good UX Design?",
+      "tags": [
+        "UX design",
+        "user experience",
+        "design psychology",
+        "empathy",
+        "work stress"
+      ],
+      "suggested_communities": [
+        "DesignersHub",
+        "ProductManagement",
+        "UXwithIndians"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User874",
+        "is_op": false,
+        "text": "Bhai ye UX designing ka drama kab khatam hoga yaar? Client bolta hai simple chahiye but jo chahiye wo khud clear nahi hota. End mein hum hi phas jate hain overthinking me.",
+        "upvotes": 56,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "JassiCoder",
+        "is_op": false,
+        "text": "Mai try karta hu roz subah 10 min meditation ya breathing exercises, thoda mental calm laane ke liye. Phir UX mai bhi thoda patience aa jata hai. Bas deadlines ka pressure hi sabse badi dushman hai.",
+        "upvotes": 72,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "TechNikhil",
+        "is_op": false,
+        "text": "UX ko jab design nahi business problem solve karne ka tool samjho tab badi easy lagti hai. Empathy se zyada stakeholders manage karna padta hai, warna design koi bhi colorful maze nahi lagta.",
+        "upvotes": 49,
+        "replies": [
+          {
+            "id": 4,
+            "author_label": "User874",
+            "is_op": false,
+            "text": "Sahi bola, stakeholders ki checklists puri karna and meetings drawings banana kabhi UX ka asli matlab yaad dilate hain?",
+            "upvotes": 18
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Exactly yaar, client ki demands ke beech user peace rakhna tough lagta hai. Mai ab thoda zyada user testing try kar raha hu jisse jo bhi improvements aaye wo asli feel ke sath aaye, bina over complicate kiye.",
+        "upvotes": 61,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "SanaUX",
+        "is_op": false,
+        "text": "Playfulness UX design me lana toh chaos hi lagta meri team ko, kabhi kabhi sochti hun ki patients rakhna hi informal manners me positive user experience hai.",
+        "upvotes": 29,
+        "replies": [
+          {
+            "id": 7,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Haha haan, mai bhi sochta hu jo UX ko playful banaye wohi sabse zyada frustrated hota hai team mai. Thoda flexible rehna hi best fix hai sometimes.",
+            "upvotes": 27
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "author_label": "SnehalTechie",
+        "is_op": false,
+        "text": "Ever tried pairing design with music breaks? Somehow jab thoda music play karta hu during long sessions, creativity aur calm dono aa jate hain. Definitely UX bhi ek harmony chahiye between ideas and execution.",
+        "upvotes": 35,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "around 300 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "What Is the Psychology Behind Good UX Design?",
+      "brief": "→ Good UX design can be likened to the feeling of flowing naturally, like on a rafting trip, where obstacles are peacefully navigated. → The essence of good UX design includes a calm mental state, empathy, problem-solving without struggle, and a seamless interaction experience. → Good UX design is likened to healing for users, with music being an analogy for the harmony between ideas and execution. → It is emphasized that good UX design is open-minded, flexible, and playful, leaving room for improvement and focusing on creating a positive user experience."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Design",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post discusses the psychology and philosophy behind good UX design, focusing on user interaction and experience. It uses analogies related to design and emphasizes qualities like empathy and seamless interaction, which are core topics in the Design community. As it directly relates to UX/UI and design thinking, it fits best under the functional Role community 'Design' before considering others."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The article discusses the psychology behind good UX design, which relates to skills and role-specific development for UX designers and product managers.",
+      "mapped_communities": [
+        "Product Management",
+        "Design & Creative",
+        "General Topics"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Design"
+    }
+  },
+  {
+    "post": {
+      "title": "LoFormer deblurring is good but slow, anyone else stuck?",
+      "body": "This LoFormer model seems promising for fixing blurry night CCTV pics but the slow speed is kinda frustrating. A recent study on ACM Multimedia 2024 showed LoFormer beats others in cleaning up urban night images, but it’s way slower than some newer models. For those of us dealing with real-time video or security projects, this lag can really kill the flow. I’m curious if anyone here tried optimizing something like this with pruning or quantization or have better alternatives that don’t make you wait forever? Would love some practical tips or just some venting buddies!",
+      "source": "Discovering Emerging Multimedia Technologies for National Security at ACM Multimedia 2024 Part…",
+      "tags": [
+        "AI models",
+        "image deblurring",
+        "real-time processing",
+        "LoFormer",
+        "multimedia tech"
+      ],
+      "suggested_communities": [
+        "AI and Machine Learning",
+        "Video Processing Enthusiasts",
+        "Tech Career Chat"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User_sonu",
+        "is_op": false,
+        "text": "Yaar, slow inference is always a headache. Used similar models last year and yeah pruning helps but it messes up accuracy sometimes. Waiting for someone to fix this speed vs quality ka jugad properly!",
+        "upvotes": 120,
+        "replies": [
+          {
+            "id": 101,
+            "author_label": "User_rina",
+            "is_op": false,
+            "text": "Exactly, accuracy drop is not acceptable in security work tho. So stuck between rock and hard place :/",
+            "upvotes": 45
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "User_deepak99",
+        "is_op": false,
+        "text": "I tried quantization last month for a CCTV feed model, it really cut down the runtime almost by half. Thoda sa accuracy loss hua but for real-time kaam it’s manageable. Maybe worth experimenting?",
+        "upvotes": 95,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "Techie_Aarti",
+        "is_op": false,
+        "text": "Honestly speed issues like these make me doubt if these models can see actual industry use soon. I mean who has time to wait 5-10 seconds per frame in a live feed? Hope they optimize soon otherwise sab lab work hi rahega.",
+        "upvotes": 70,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Glad kuch log relate kar rahe hain. Deepak ki baat sahi hai, quantization tries kiye bina confidence nahi aata. Par still lagta hai hum abhi bhi beta testing phase mein hi hain for real security systems.",
+        "upvotes": 88,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "User_nisha_G",
+        "is_op": false,
+        "text": "Just venting here but this is typical, big models always slow af and optimization toh optional lagta hai developers ke liye. Real users ko dekhna hai ya bas research paper banana, wahi question.",
+        "upvotes": 52,
+        "replies": [
+          {
+            "id": 102,
+            "author_label": "User_sonu",
+            "is_op": false,
+            "text": "Haha sach bol rahi, kabhi kabhi lagta hai wo papers bas showcase ke liye hai, production ready nahi.",
+            "upvotes": 34
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "User_akshat786",
+        "is_op": false,
+        "text": "Anyone thought of using ensemble methods? Sometimes combining a fast but less accurate model with a slower one for corrections works better for real time.",
+        "upvotes": 40,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "approx 280 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Discovering Emerging Multimedia Technologies for National Security at ACM Multimedia 2024 Part…",
+      "brief": "→ The study evaluated the performance of the LoFormer model in deblurring images taken in varying lighting conditions and blur strengths, particularly focusing on urban surveillance scenarios. → LoFormer showcased its effectiveness in removing strong blur in night images, improving details like hair, person outlines, building structures, and text displays. The model trained on the GoPro dataset outperformed others in terms of deblurring quality. → Comparison with other deblurring models on the 24/7 Tokyo dataset revealed LoFormer's specialized capabilities. Although efficient in restoration quality, LoFormer's slower inference speed might hinder real-time deployment without further optimization. → Despite LoFormer's promising deblurring abilities, its slower processing speed compared to other models like UHDFormer and MoCE-IR-S suggests the need for optimization through techniques like pruning or quantization for practical real-time applications."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post centers around the performance analysis of the LoFormer model, a machine learning approach for image restoration in surveillance scenarios. It includes comparisons with other models, dataset usage, and considerations about inference speed and optimization techniques like pruning and quantization. These elements fit squarely into Data Science & Analytics, as it involves model performance and analytics tools. It corresponds to the first priority category 'Role community' since it deals with model performance, an integral part of data science work."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights advancements in AI/tech specifically in image deblurring models, which is relevant for tech professionals interested in AI trends affecting job skills and roles.",
+      "mapped_communities": [
+        "General Topics",
+        "Dev & QA",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "Prototyping or Feature Dev: Kya Pehle Focus Karein?",
+      "body": "Prototyping pe itni pressure hai, par feature development toh waise bhi boring lagta hai. Recently read that prototyping helps test and refine ideas before full development, while feature dev makes those ideas real and scalable (from source). Lagta hai hum log hamesha pakde rehte hain ki kab prototyping khatam karein aur real features pe kaam shuru karein. Teams struggle karte hain is balance ko leke, aur mujhe bhi kabhi kabhi lagta hai ki hum overdo kar rahe hain kisi ek pe. Tum log ke experiences kya hain? Kya zyada prototyping karni chahiye ya feature development pe jaldi shift karna better hota hai?",
+      "source": "Prototyping vs. Feature Development",
+      "tags": [
+        "prototyping",
+        "feature development",
+        "product management",
+        "startup struggles",
+        "agile",
+        "teamwork"
+      ],
+      "suggested_communities": [
+        "Product Management",
+        "Agile Practitioners",
+        "Startup Grind"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User842",
+        "is_op": false,
+        "text": "Boss, yeh prototyping ka jhamela mera toh headache hai sometimes. Kabhi lagta hai, bas prototype pe hi atak gaye, real kaam peeche reh jata hai. Kuch teams toh baar baar chhote prototype banati hain, end mein dead end lagta hai.",
+        "upvotes": 47,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "User842",
+            "is_op": false,
+            "text": "Aur jab feature development shuru hota hai toh bohoth baar poora wala design change karna padta hai, matlab pehle wale prototype ka faayda hua ya nahi pata hi nahi.",
+            "upvotes": 22
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "ChaiPeCharcha",
+        "is_op": false,
+        "text": "Humare yahan ek tariqa follow karte hain ki ek demo prototype banate hain, basic user testing ke liye. Fir jo feedback aata hai uske basis pe feature dev plan karte hain. Matlab waste time kam hota hai aur confusion bhi kam rehti hai.",
+        "upvotes": 89,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "TechieSeeker",
+        "is_op": false,
+        "text": "Honestly, mujhe lagta hai teams ko thoda zyada focus rakhna chahiye purpose pe. Agar prototype sirf dikhaane ke liye bana rahe, toh time barbaad hai. Par agar real problem solve kare toh thoda extra time dena hi chahiye.",
+        "upvotes": 58,
+        "replies": [
+          {
+            "id": 31,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly yahi feel hota hai mujhe bhi. Purpose clear hona chahiye otherwise dono hi phase lose ho jaate hain. Tum log ke paas koi tip ya tool hai is cheez ko control karne ka?",
+            "upvotes": 20
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSuman",
+        "is_op": false,
+        "text": "Waise toh sab chhotu engineers ko lagta hai prototyping matlab badi badi baatein karna aur phir real kaam avoid karna. Feature dev matlab asli boss bana, warna tum sirf safalta ka sapna hi dekhte rahoge. Chill, dono ka apna drama hai.",
+        "upvotes": 40,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "StartupNaukar",
+        "is_op": false,
+        "text": "Kaam ka pressure bada hota hai toh log jaldi feature development pe jump karte hain but phir bugs aur user complaints aate hain. Prototyping sahi hai agar time aur budget mil raha hai toh, warna risk lena padta hai.",
+        "upvotes": 35,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks for the tips sabko. Really lagta hai ki ek formula jaisa nahi hota, team culture aur project need pe depend karta hai. Hum bhi try karenge thoda controlled prototyping, takki uske basis pe better feature planning ho sake.",
+        "upvotes": 27,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "around 300 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Prototyping vs. Feature Development",
+      "brief": "→ Prototyping is crucial in the early stages of product development to test ideas, gather feedback, and refine concepts before full-scale development. → Feature development builds on prototyping insights to create production-ready capabilities, involving planning, design, testing, and ongoing support. → Rapid prototyping helps teams validate assumptions and refine features before committing significant resources, complementing agile practices and continuous delivery. → Successful teams blend prototyping and feature development, recognizing that prototyping breathes life into ideas while feature development scales validated concepts into lasting solutions."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Product Management",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The content clearly discusses phases of product lifecycle such as prototyping to test ideas and feature development to build production-ready capabilities. These topics align closely with product roadmaps, feature prioritization, user feedback loops, and agile methodologies, all central to the Product Management community. Given the classification priority, role communities like Product Management are selected first since the post is about job role-specific practices."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "Discusses prototyping and feature development, key skills and processes relevant to product management and software engineering roles.",
+      "mapped_communities": [
+        "Product Management",
+        "Dev & QA",
+        "Work Related"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Product Management"
+    }
+  },
+  {
+    "post": {
+      "title": "AI Coding Going Autonomous? Not Sure How To Feel",
+      "body": "Feels kinda scary that AI coding is moving from just helping us to actually doing everything on its own. According to the source, AI agents will soon be able to fix errors and even write code by themselves, while platforms will manage multiple AIs at once. As someone coding daily, it sounds cool but also overwhelming—like, will we even need junior devs anymore? What do you all think, will this actually help us or just make things more complicated?",
+      "source": "The Future of AI Coding: Beyond Tools to True Autonomous Development",
+      "tags": [
+        "AI coding",
+        "automation",
+        "software development",
+        "future tech",
+        "coding challenges"
+      ],
+      "suggested_communities": [
+        "Tech Discussions",
+        "Software Developers India",
+        "AI Enthusiasts"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "CodeWala101",
+        "is_op": false,
+        "text": "basically AI will steal all our bugs and also our jobs lol. Just kidding but seriously, if machines start fixing errors automatically then junior devs will have zero chance to learn from mistakes. Not sure if that's good or bad.",
+        "upvotes": 124,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "ChaiPeCharcha",
+        "is_op": false,
+        "text": "I get ki AI is helping a lot but full autonomous coding sounds like sci-fi. Kahin ye sab overhyped marketing toh nahi? I wonder how reliable these auto fixing agents will be in real projects.",
+        "upvotes": 67,
+        "replies": [
+          {
+            "id": 3,
+            "author_label": "CodeWala101",
+            "is_op": false,
+            "text": "True yaar, hype zyada hai abhi. Real projects me toh har ek code ka testing karna padta hai, AI ki help se bhi banda last me verify karega hi.",
+            "upvotes": 29
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "JuniorDev99",
+        "is_op": false,
+        "text": "I’m still trying to survive in my current job. Ab AI khud code likh lega toh mera kya hoga? Relly worried if I should learn AI stuff or switch career. Any suggestions?",
+        "upvotes": 98,
+        "replies": [
+          {
+            "id": 5,
+            "author_label": "TechSkeptic",
+            "is_op": false,
+            "text": "Honestly, upskilling on AI itself is best bet. AI tools will be part of dev toolkit, so knowing how to work with them is important instead of fearing them.",
+            "upvotes": 45
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "The_OP",
+        "is_op": true,
+        "text": "Exactly why I posted this. I feel both hopeful and insecure at the same time. AI might save time but also make some roles useless. Curious how others in software field are preparing for this shift.",
+        "upvotes": 87,
+        "replies": []
+      },
+      {
+        "id": 7,
+        "author_label": "SarcasticDev",
+        "is_op": false,
+        "text": "Great news! Next time instead of chai break, I’ll have AI give my boss a pep talk too. Last thing we want is actually working hard, hai na?",
+        "upvotes": 34,
+        "replies": []
+      },
+      {
+        "id": 8,
+        "author_label": "PragmaticRohan",
+        "is_op": false,
+        "text": "My advice for juniors is focus on problem solving and understanding fundamentals. AI tools will come and go but solid understanding ka koi substitute nahi.",
+        "upvotes": 76,
+        "replies": [
+          {
+            "id": 9,
+            "author_label": "JuniorDev99",
+            "is_op": false,
+            "text": "True, fundamentals matter a lot. Still hard to ignore jo fast changes aa rahe hain.",
+            "upvotes": 15
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "tone": "insecure",
+      "length_estimate": "approx 330 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "The Future of AI Coding: Beyond Tools to True Autonomous Development",
+      "brief": "→ AI coding is evolving from assisted to autonomous development in distinct phases. → In the future, AI agents will autonomously fix errors and handle development work. → Platform to orchestrate multiple coding agents efficiently is being built for developers."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Dev & QA",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The title and description mention AI coding evolving to autonomous development, fixing errors, and orchestrating coding agents, all directly related to software engineering practices. This matches the 'Dev & QA' community, which covers software engineering, developer tools, and coding workflows. No other community fits better as the focus is not on broader AI concepts but on practical developer tool automation. As per the priority, role-based community classification is applied first."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news discusses AI trends affecting software development skills and autonomous coding roles, relevant to job functions and technology impact on careers.",
+      "mapped_communities": [
+        "Dev & QA",
+        "Work Related",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Dev & QA"
+    }
+  },
+  {
+    "post": {
+      "title": "Can AI Really Free Us From The 9to5 Grind?",
+      "body": "Feels like everyone is talking about escaping 9to5 using AI these days. According to the news, AI can help automate work and build passive income without needing a second job (source: Escape the 9to5: Use AI to Build Freedom Without a Second Job). I get the appeal but honestly it sounds overwhelming how to start if you are not tech savvy. I wonder how many of us can actually rely on AI without spending tons of time learning or money investing upfront. Has anyone here tried to use AI tools for side income? How did it go?",
+      "source": "Escape the 9-to-5: Use AI to Build Freedom Without a Second Job",
+      "tags": [
+        "AI income",
+        "side hustle",
+        "work life balance",
+        "passive income",
+        "automation"
+      ],
+      "suggested_communities": [
+        "Startups India",
+        "Work From Home",
+        "Side Hustle"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User142",
+        "is_op": false,
+        "text": "Ye AI passive income stuff har jagah dikh raha hai, magar sach bolun to itna simple nahi hai. Mujhe laga tha ek do apps use kar ke easy paise ban jayenge, but time aur patience dono chahiye. Starting mein sab confuse kar deta hai.",
+        "upvotes": 120,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "TechSai",
+        "is_op": false,
+        "text": "Automation ka idea acha hai, par agar pehle se coding nahi aati to mera advice hai thoda basic programming sikh lo, phir AI tools asaan lagenge. Udemy ya free resources se shuru kar sakte ho. Zero se income generate karna free nahi hota.",
+        "upvotes": 90,
+        "replies": [
+          {
+            "id": 3,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Definitely, coding ka gap sabko feel hota hai. I was also confused where to start. Kya tumne personally koi AI project ya tool end to end banaya hai jo paise deta ho?",
+            "upvotes": 35
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "Riya_2023",
+        "is_op": false,
+        "text": "Mainne ek baar AI se content generation try kiya tha as side, par quality maintain karna bahut tough tha. Finally, it took more time than just doing the work myself. Socha tha automation se time save hoga, par mera case mein opposite hua.",
+        "upvotes": 75,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "SarcasticSimon",
+        "is_op": false,
+        "text": "Passive income without the hard work? Bade bade log bhi abhi tak full time job kar rahe hai, tum soch rahe ho AI se chill maaroge? Good luck with that!",
+        "upvotes": 45,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "FutureReadyKumar",
+        "is_op": false,
+        "text": "Mujhe lagta hai companies bhi AI ka use kar rahi hain to reduce human effort, toh chhote entrepreneurs aur freelancers ko bhi seekhna chahiye kab tak nahi. Nahi to job market me bhi piche reh jayenge. AI tools ko samajhna ab zaroori ho gaya hai.",
+        "upvotes": 83,
+        "replies": [
+          {
+            "id": 7,
+            "author_label": "User142",
+            "is_op": false,
+            "text": "Agree, but kitne log itni tezi se skill upgrade kar pate hai? Bahut log abhi bhi manual tasks me mashghool hai and AI thoda scary lagta unko.",
+            "upvotes": 36
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Ye sab comments padh ke lagta hai shayad AI passive income ka sapna itna easy nahi jitna laga. Koi bhai ya behen jo stepwise bata sake ki beginner ko kaha start karna chahiye? Ready to fail but at least want to try with proper guide.",
+        "upvotes": 42,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "approx 350 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Escape the 9-to-5: Use AI to Build Freedom Without a Second Job",
+      "brief": "→ Many individuals dream of escaping the 9-to-5 routine and utilizing artificial intelligence (AI) to create passive income streams. → AI offers leverage by automating tasks and multiplying output without increasing workload. → Building AI-powered systems can generate income at scale, enabling individuals to design lifestyles aligned with their desires. → By strategically incorporating AI into income generation, individuals can achieve financial freedom without resorting to second jobs."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Tech & Startups",
+      "category": "functional",
+      "confidence": 85,
+      "detailed_reason": "The post talks about using AI technologies to build financial freedom and passive income, which aligns closely with startup culture and innovation. Although it mentions AI, it does not focus on machine learning techniques or data science pipelines specifically, so Data Science & Analytics is less fitting. The focus on lifestyle and freedom through technology is a common theme in Tech & Startups community, emphasizing founder culture and tech-driven business models."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news discusses how AI can be leveraged to create income streams and impact work patterns, which aligns with AI/tech trends affecting jobs and skills development.",
+      "mapped_communities": [
+        "Work Related",
+        "General Topics",
+        "IT Services"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Tech & Startups"
+    }
+  },
+  {
+    "post": {
+      "title": "n8n for Data Engineers: Any real use cases?",
+      "body": "This n8n tool seems interesting but kind of overwhelming too. According to the news from n8n for Data Engineers, it is a low code platform that connects APIs and data easily with drag-drop AI elements. I’ve seen our team struggle to get quick fixes done without disturbing engineers all the time, so the idea of non-engineers handling routine stuff sounds promising. But is it actually reliable in day-to-day work or just another shiny tool? Anyone here tried it seriously and can share their experience?",
+      "source": "n8n for Data Engineers: Practical Automation + AI/LLM Bridge",
+      "tags": [
+        "automation",
+        "data engineering",
+        "low code",
+        "AI integration",
+        "workflow tools"
+      ],
+      "suggested_communities": [
+        "Data Engineers India",
+        "Automation Tools",
+        "AI & ML Enthusiasts"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User294",
+        "is_op": false,
+        "text": "Mujhe bhi ye n8n kaafi promising lag raha hai for quick automation but honestly, jab hum try kiya kuch workflows banane, drag and drop thoda confusing tha. Documentation bhi itni clear nahi. Lekin agar it helps cut down routine bugs from needing engineers, that’s a big win.",
+        "upvotes": 68,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Haan, same yaha, documentation missing thoda clarity. Tried simple stuff only abhi, but hoping it can save some time for sure in repetitive fixes.",
+            "upvotes": 15
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "DataGeek77",
+        "is_op": false,
+        "text": "One thing to keep in mind, n8n isn’t going to replace real batch tools like Spark or Flink, so don’t expect magic on big data processing. Yeh sirf automation aur quick AI based stuff ke liye best hai. Use it for enrichment and alerts, not heavy transformations.",
+        "upvotes": 89,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SupportKavi",
+        "is_op": false,
+        "text": "Bhai, humare operations team ne use kiya, and it’s quite helpful to get notifications and quick fixes without waiting on devs. But haan, kuch AI nodes unstable lag rahe the during early testing. Hopefully patches aayenge soon.",
+        "upvotes": 53,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "User294",
+            "is_op": false,
+            "text": "Same, AI nodes thode flaky lagte hain. Wish they improve that fast.",
+            "upvotes": 18
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "SkepticalAshu",
+        "is_op": false,
+        "text": "Automation tools ka toh craze badh raha hai, but honestly it feels like another party trick. Adding AI nodes is cool but end of day, agar workflow properly maintained nahi hua toh kaam ka kya fayda? Hum engineers ke liye extra headache hi badhta hai.",
+        "upvotes": 74,
+        "replies": [
+          {
+            "id": 13,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "I get this, Ashu. That risk is real — giving access to analysts and ops without strict controls can backfire too. But if built with care, it might reduce small tickets bothering engineers.",
+            "upvotes": 22
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "TechieTanya",
+        "is_op": false,
+        "text": "If you wanna try, start with very basic workflows and test everything end to end. Regular reviews are must because automation can create silent failures easily. Good that n8n has a low code interface, makes testing faster for non-engineers.",
+        "upvotes": 40,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "SarcasticSuraj",
+        "is_op": false,
+        "text": "Another tool to add on the list, frustrate engineers further and confuse analysts. AI nodes sound fancy but mostly this will create more Slack pings for us. Thanks, but no thanks.",
+        "upvotes": 33,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "approx 350 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "n8n for Data Engineers: Practical Automation + AI/LLM Bridge",
+      "brief": "→ n8n is a fair-code, low-code automation platform designed for connecting APIs, data stores, and scripts into reliable workflows. → n8n is popular with data teams due to its drag-and-drop LLM nodes that make it easy to incorporate AI from various vendors with minimal changes. → n8n doesn't replace batch/stream engines like Spark or Flink but excels at automation, enrichment, notifications, human-in-the-loop steps, and AI/LLM-powered summaries and classifications. → The platform has resulted in hours saved weekly, quicker Mean Time to Resolution (MTTR), and enhanced visibility for data and platform teams, allowing for safe contribution from analysts, ops, and support without engineer intervention for routine fixes."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The content discusses n8n, a low-code automation tool used to connect APIs and data workflows, highlighting its benefits for data engineers and analysts, with a focus on AI/LLM usage and improved data operations. This matches the Data Science & Analytics community description which involves machine learning, data pipelines, and analytics tools. Since it is about specific tools and workflows for data roles, it falls under a functional community rather than industry or career-related topics. The clear signals from the description about data automation, model integration, and performance improvements prioritize Data Science & Analytics."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights a technology (n8n) relevant to data engineers, focusing on automation and AI trends that can impact skills and role-specific workflows.",
+      "mapped_communities": [
+        "Dev & QA",
+        "General Topics",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Medium",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "Seedream 4.0 outshining Nano Banana? Kya scene hai?",
+      "body": "Seedream 4.0 seems to have taken the lead over Nano Banana in AI image editing, according to a ByteDance comparison. Seedream apparently has better multimodal skills, style options, and logic, while Nano Banana still rules the viral 3D figurine niche. For people working with AI tools, this feels like a big deal, especially if your projects need precise prompts and cost-effective solutions. But if you’re into those trendy miniatures, Nano Banana might still be your jam. Kya aap log ne dono try kiya hai? Kaisa laga, aur kaun better suit karta hai aapke work style ko?",
+      "source": "ByteDance",
+      "tags": [
+        "AI image editing",
+        "Seedream",
+        "Nano Banana",
+        "digital art tools",
+        "3D miniatures"
+      ],
+      "suggested_communities": [
+        "Tech Enthusiasts India",
+        "Design and Creativity",
+        "AI Tools Users"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User879",
+        "is_op": false,
+        "text": "Seedream ke baare me suna tha but Nano Banana pe kaam kiya hai zyada, especially 3D miniatures me. Video content me chhote figures bahut viral hote hain, toh uska edge hai. Par haan Seedream ki professional vibe jyada lagti hai, cost bhi kam hai bolte hain, toh try karna chahiye.",
+        "upvotes": 105,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "User879",
+            "is_op": false,
+            "text": "Maine recently ek project me dono tools use kar ke dekhe, Seedream thoda zyada logical results deta hai, but Nano Banana quirky designs me better.",
+            "upvotes": 25
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "DesignLover23",
+        "is_op": false,
+        "text": "Cost effective option agar chaahiye toh Seedream definitely better lagta hai. Nano Banana trendy hai but thoda expensive aur limited use case lag raha mujhe. Office projects me prompt accuracy badi cheez hoti hai.",
+        "upvotes": 87,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSakshi",
+        "is_op": false,
+        "text": "Ab yeh AI image editors ki ladai dekho, lagta hai Nano Banana 3D khelne me busy hai aur Seedream duniya badalne me! Miniatures chhote sahi, par final output badi companies ko chahiye hota hai boss.",
+        "upvotes": 58,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "TechGuru90",
+        "is_op": false,
+        "text": "Seedream ki multimodal capabilities aur logic samajhna really makes it better for professional workflows. Especially jab aapko consistent results chaiye hote hain across different use cases. Nano Banana ka 3D figurine market hi uska stronghold hai. Agar client ka kaam detail oriented hai toh Seedream try karna chahiye.",
+        "upvotes": 134,
+        "replies": [
+          {
+            "id": 41,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Agree, TechGuru90. Professional use me prompt adherence aur cost matter karti hai, especially budgets tight hote hain. Isliye Seedream ka professional appeal bade teams ke liye clear lag raha hai.",
+            "upvotes": 46
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "BoredAtWork",
+        "is_op": false,
+        "text": "Seedream try kiya but mujhe samajh nahi aaya kaunsa zyada easy hai use karne me. Nano Banana thoda simple lagta hai, Seedream pe jyada options hai toh thoda complex bhi bana deta hai kabhi kabhi. Jo non-tech log hain unke liye confusion ho sakti hai.",
+        "upvotes": 41,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "BoredAtWork ki baat bilkul sahi hai. Mere experience me Seedream thoda steep learning curve rakhta hai, especially agar aapko styling aur logical prompts manage karne ho. Lekin agar aap thoda time do toh professional kaam me kaafi fayda hota hai.",
+        "upvotes": 58,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "approx 350 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Nano Banana vs Seedream 4.0: Which is the Better AI Image Editor?",
+      "brief": "→ Seedream 4.0 has outperformed Nano Banana in various aspects, as per recent comparative tests by ByteDance. → Seedream 4.0 excels in expanded multimodal capabilities, enhanced stylistic aesthetics, and improved logical understanding abilities. → In contrast, Nano Banana leads the popular 3D figurine market with its expertise in creating viral miniatures. → While Seedream 4.0 is highlighted for prompt adherence, cost-effectiveness, and professional applications, Nano Banana's strength lies in its appeal to the trending miniature sector."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The post centers on a comparison between two AI-powered image editing tools with mention of capabilities like multimodal features, logical understanding, and professional applications. These topics directly relate to machine learning and AI tools, which are core topics for the Data Science & Analytics community. Given the functional focus on technology-enabled analytics and AI, this community is the best fit under the role community category. The content does not fit industry, location, or career community criteria, and is clearly work-related and professional."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news covers advancements in AI image editing tools which relate to AI/tech trends affecting skills and roles in tech and creative industries.",
+      "mapped_communities": [
+        "General Topics",
+        "Dev & QA",
+        "Product Management"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "TechBullion",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "Visworld or Kling AI? Confused Which One To Trust",
+      "body": "Can't believe there are now two big AI tools fighting it out in this image and video creation space. According to the news on Visworld vs Kling AI shared on AmbitionBox, both are leading in 2025 but with different strengths. Visworld is apparently better with image quality and speed, while Kling AI is cool for making videos from text. For us working with content or digital projects, it feels overwhelming to pick one without wasting time on trials. Anyone here tried both or stuck choosing? How do you usually decide on such AI tools?",
+      "source": "Visworld vs. Kling AI: Which AI Platform Leads in Image & Video Creation in 2025?",
+      "tags": [
+        "AI tools",
+        "image creation",
+        "video creation",
+        "digital content",
+        "Visworld",
+        "Kling AI"
+      ],
+      "suggested_communities": [
+        "Tech Workers",
+        "Digital Creatives India",
+        "AI Enthusiasts"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User299",
+        "is_op": false,
+        "text": "Bhai honestly this AI choices are just making things complex. Last time I wasted whole week learning one platform only to find out another software has better features. Kabhi kabhi lagta hai ki manually karna easy hota hai.",
+        "upvotes": 145,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly yaar, that's what I feel too. Time is money but when even top AI options confuse, then kahan se start karein?",
+            "upvotes": 56
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "TechMaven",
+        "is_op": false,
+        "text": "From what I've read, Visworld is faster with images but Kling AI's video-from-text might help if you're making story-driven content. Mujhe laga pehle try karna chahiye dono ke free trials pa, small projects pe test karke hi final decision lena chahiye.",
+        "upvotes": 90,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSuresh",
+        "is_op": false,
+        "text": "Great, another AI war jismein hum common users ko decide karna learn karna padega. Jitna AI smart hota jaa raha hai, utna hamara dimag lose ho raha hai.",
+        "upvotes": 72,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "AnxiousAnita",
+        "is_op": false,
+        "text": "I am honestly scared to switch platforms now. Agar naye AI tools kaafi alag hain toh mera workflow pura ruin ho jayega. Kisi ko koi guide ya suggestion mile toh please share, seeking kisi ka experience yahan.",
+        "upvotes": 68,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "User299",
+            "is_op": false,
+            "text": "Anita, same here. I feel stuck between learning something old and wasting time on new. But maybe start with whichever is closer to your current skills? Step by step hi toh chalta hai.",
+            "upvotes": 29
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "PragatiPro",
+        "is_op": false,
+        "text": "I work in digital marketing, Visworld ki image quality is top notch and speed bhi acha hai. But if you want to create quick video ads from scripts, Kling AI is more user-friendly. My advice, depend karta hai what kind of projects you do daily.",
+        "upvotes": 82,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "PolicyGuru",
+        "is_op": false,
+        "text": "From a workplace perspective, companies should also focus on training teams on the AI they pick instead of jumping between platforms. AI adoption is not only about features, it's about smooth integration so workload doesn't get messy. Hope companies consider this before investing too hurriedly.",
+        "upvotes": 47,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "approx 310 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Visworld vs. Kling AI: Which AI Platform Leads in Image & Video Creation in 2025?",
+      "brief": "→ Visworld and Kling AI leading in 2025 digital image/video creation, offering advanced tech. → In-depth comparison helps professionals pick best AI tool for projects. → Visworld excels in AI content creation with unique features and smart learning capability. → Kling AI stands out in video creation from text, connecting creativity with technical skills. → Visworld leads in image quality, speed, and performance, setting new standards."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The post centers on comparing AI platforms specialized in content creation through machine learning technologies, which falls under Data Science & Analytics. It discusses technical capabilities, model performance, and AI-driven media generation, matching the community's focus. Although it touches on creativity, the core is AI tech comparison, making it a functional community post rather than marketing or design. Following the classification order, the role community Data Science & Analytics is the best fit."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights AI/tech trends affecting skills and tools relevant for professionals involved in content creation, making it pertinent for career and role-specific developments.",
+      "mapped_communities": [
+        "General Topics",
+        "Dev & QA",
+        "Product Management"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "TechBullion",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  }
+]

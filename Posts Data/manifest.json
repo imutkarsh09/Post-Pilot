@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "filename": "Generated_Posts_HinduBusinessLine.json",
+      "displayName": "Hindu Business Line",
+      "value": "HinduBusinessLine"
+    },
+    {
+      "filename": "Generated_Posts_Arxiv.json",
+      "displayName": "Arxiv",
+      "value": "Arxiv"
+    },
+    {
+      "filename": "Generated_Posts_Bloomberg Quint.json",
+      "displayName": "Bloomberg Quint",
+      "value": "Bloomberg Quint"
+    },
+    {
+      "filename": "Generated_Posts_Dev.json",
+      "displayName": "Dev",
+      "value": "Dev"
+    },
+    {
+      "filename": "Generated_Posts_Insider.json",
+      "displayName": "Insider",
+      "value": "Insider"
+    },
+    {
+      "filename": "Generated_Posts_Medium.json",
+      "displayName": "Medium",
+      "value": "Medium"
+    },
+    {
+      "filename": "Generated_Posts_TechCrunch.json",
+      "displayName": "TechCrunch",
+      "value": "TechCrunch"
+    },
+    {
+      "filename": "Generated_Posts_Tech_Bullion.json",
+      "displayName": "Tech Bullion",
+      "value": "Tech_Bullion"
+    }
+  ],
+  "lastUpdated": "2024-01-01",
+  "description": "This manifest file helps the Posts Viewer automatically discover available data sources. Add new entries here when you add new JSON files."
+} 

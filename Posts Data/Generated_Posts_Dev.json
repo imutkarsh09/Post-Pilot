@@ -1,0 +1,1190 @@
+[
+  {
+    "post": {
+      "title": "Will GST Cuts Really Make Snacks Cheaper For Us?",
+      "body": "Not sure if I'm happy or just confused about this. News says GST on biscuits and snacks dropped from 18 to 5 percent, so companies might pack more quantity at the same price, says Nuvama analyst (source). As someone who shops on a budget, this sounds good in theory but I worry if brands will actually lower prices or just increase pack size to keep profits. Also wondering how long it'll take for the new MRPs to actually show up on shelves. Has anyone noticed real changes yet? How's it going for you guys when buying everyday items?",
+      "source": "Nuvama Analyst report",
+      "tags": [
+        "GST cut",
+        "FMCG prices",
+        "consumer goods",
+        "biscuits",
+        "snacks",
+        "toothpaste"
+      ],
+      "suggested_communities": [
+        "India FMCG Professionals",
+        "Consumer Goods Forum",
+        "Retail Industry Insights"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User217",
+        "is_op": false,
+        "text": "Yaar, every time govt tries to do something good, companies find a way to take full advantage. Mostly quantity badhake price same rakhenge, savings consumer ko nahi milegi. I tried checking prices last week but no major difference yet.",
+        "upvotes": 56,
+        "replies": [
+          {
+            "id": 101,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly, I was thinking the same. It feels like just marketing plays with gram count but not much real saving.",
+            "upvotes": 23
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "ChaiPeCharcha",
+        "is_op": false,
+        "text": "From what I heard in marketing circles, FMCG companies do pass initial benefits, especially for low price segments targeting budget shoppers. But long term, bigger brands might absorb this and focus more on premium products. So middle class folks might get small relief initially, but nothing too big.",
+        "upvotes": 42,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "HR_Wala",
+        "is_op": false,
+        "text": "This will affect our work too, chaiwalas and local stores will have to adjust prices carefully so customers don’t feel cheated. In retail setups, small price changes can impact footfalls a lot. Hope GST changes actually reach consumers fast otherwise no use.",
+        "upvotes": 35,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "JustVent",
+        "is_op": false,
+        "text": "Acha hai ki thoda benefit milega lekin kitni der tak companies apne margin reduce karengi, doubt hai. Ye to wahi hai, sasti cheez thodi zyada milegi but asli price cut to tabhi jab competition zyada ho.",
+        "upvotes": 26,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "TechSavvy",
+        "is_op": false,
+        "text": "MRP regime kaafi rigid hai so companies ko time lagega prices change karne me, maybe 3-4 weeks. Also market ko dekhna padega demand supply kaise shift karta hai. Yeh GST change definitely middle income consumers ko thoda help karega, but companies profit margin maintain karne ke liye strategies zaroor banayengi.",
+        "upvotes": 29,
+        "replies": [
+          {
+            "id": 102,
+            "author_label": "User217",
+            "is_op": false,
+            "text": "Bingo, wahi to. Market strategies ko dekhna hoga carefully. Kabhi kabhi profit ke chakkar me customer ko end me jyada hi dena padta hai.",
+            "upvotes": 12
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "SarcasticSarkar",
+        "is_op": false,
+        "text": "I am waiting for companies to just secretly reduce quality instead of price or quantity. That’s India’s FMCG magic for ya.",
+        "upvotes": 47,
+        "replies": [
+          {
+            "id": 103,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Haha sach, sometimes quality to aise hi chhupke badal jati hai, without any announcement.",
+            "upvotes": 18
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "approx 280 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "GST Cuts: Quantity Of Biscuits, Snacks, Toothpaste To Increase At Lower Price End, Says Nuvama Analyst",
+      "brief": "→ Fast-moving consumer goods companies are likely to increase the volume of packaged items like biscuits, snacks, and toothpaste in response to GST cuts, passing on the benefits to consumers. → The reduction in GST from 18% to 5% on items like biscuits and snacks is expected to result in increased grammage for lower-priced items. → Initially, companies in categories like toothpaste and shampoo will pass on the GST cut benefits to consumers; however, consumer behavior may shift towards bigger brands in the long term. → The changes in GST rates, effective from Sept. 22, are anticipated to benefit middle-class and lower-middle-class consumers the most, with FMCG companies needing several weeks to reflect new prices due to the MRP regime."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Manufacturing",
+      "category": "industry",
+      "confidence": 90,
+      "detailed_reason": "The content centers around fast-moving consumer goods (FMCG) companies reacting to GST policy changes, affecting manufacturing outputs like biscuit and snack quantities. This relates to industry-level impacts in manufacturing and supply chain adjustments in FMCG. Since it focuses on sector-specific regulatory changes with operational effects on production and packaging, it fits under the Manufacturing community, which covers factory operations and production planning. It is not about a specific job role, location, or direct career advice, thus prioritized as industry community."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news involves GST changes, which impact taxation policies relevant to professionals dealing with taxes, finance, and compliance in the FMCG sector.",
+      "mapped_communities": [
+        "General Topics",
+        "Work Related",
+        "BFSI"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Bloomberg Quint",
+      "suggested_community_name": "Manufacturing"
+    }
+  },
+  {
+    "post": {
+      "title": "15 Second Loaders Really Kill User Patience",
+      "body": "Waiting on a spinner for even 15 seconds feels like an eternity when you just wanna get stuff done. This AI jersey designer had 87 percent of users leaving cause of a boring loader, as per the news from the source. I feel like in our day to day work when clients or users see no feedback, we lose their trust fast. Breaking big waits into smaller phases with real progress updates seems like the only way to keep people engaged now. Anyone else fought this battle with slow AI or web features? What tricks do you use to not lose users?",
+      "source": "How I Handle 15-Second AI Tasks Without Losing 87% of Users",
+      "tags": [
+        "user experience",
+        "async processing",
+        "frontend",
+        "ai design",
+        "user retention",
+        "performance"
+      ],
+      "suggested_communities": [
+        "Product Management",
+        "Frontend Devs India",
+        "Tech Startups"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User239",
+        "is_op": false,
+        "text": "Yaar, wait times like that just make users bounce like crazy. Usually clients just dont get why you cant make it instant but nope, async and feedback are lifesavers here.",
+        "upvotes": 45,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly! Took a lot of convincing to get everyone on board with async polling but results have been worth it.",
+            "upvotes": 18
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "ChaiPeCharcha",
+        "is_op": false,
+        "text": "I feel you, even small pauses without any hint of progress makes users think the app is just stuck. Thoda basic spinner fixes or percentage bars do wonders. But problem is clients want perfect right away 🙄",
+        "upvotes": 38,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "TechLayman",
+        "is_op": false,
+        "text": "If you dont use smart polling combined with webhooks, your frontend will keep asking uselessly and waste resources. Good to see these folks got the retries and error handling right, most teams miss that.",
+        "upvotes": 30,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "True, those error and retry policies saved us from really confusing user states. Took some extra dev but zero regrets there.",
+            "upvotes": 22
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSakshi",
+        "is_op": false,
+        "text": "Oh wow a spinner for 15 seconds, how original. Like users just love waiting and staring at a circle going round and round, right? Some people have too much time on hands I guess.",
+        "upvotes": 25,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "PragmaticPankaj",
+        "is_op": false,
+        "text": "bhai, always split big tasks into chunks that user can see some result. Just tell them what is happening even if code or data is loading behind scenes. That transparency itself builds trust.",
+        "upvotes": 50,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "EmpathyExplorer",
+        "is_op": false,
+        "text": "Feels frustrating for users and devs both. I remember working on something similar, big wait times just drains mojo. Glad they found a way to reduce drop offs, hope more teams adopt such methods.",
+        "upvotes": 28,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "about 250 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "How I Handle 15-Second AI Tasks Without Losing 87% of Users",
+      "brief": "→ 87% of users were abandoning an AI jersey designer due to a 15-20 second spinning loader with no feedback, resulting in lost revenue and negative brand perception. → To address the issue, the process was split into three phases, with instant submission, async processing, smart polling for status updates, and real progress indicators on the frontend. → Implementing these changes led to significant improvements at AI Jersey Design, including reduced abandonment rate, increased user engagement, improved performance metrics, and positive business impacts. → The architecture involved webhook updates, frontend polling strategies, and key considerations like webhook retries, status expiration, and error recovery to handle long-running tasks effectively."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Product Management",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post centers on handling long-running AI tasks within a product, improving user retention and engagement through frontend and backend architectural changes. This aligns with product management topics such as feature decisions, user experience improvements, and driving business metrics. Although there are technical elements, the emphasis is on how these changes affect product performance and users, fitting best within Product Management. This category is prioritized first as it relates to product roles over broader software development or business categories."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news discusses a technical solution improving AI tool performance and user engagement, highlighting AI/tech trends and role-specific developments relevant for engineers and product managers.",
+      "mapped_communities": [
+        "Dev & QA",
+        "Product Management",
+        "General Topics"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Product Management"
+    }
+  },
+  {
+    "post": {
+      "title": "Can Teams Really Sync Without Talking?",
+      "body": "This concept of teams moving together like birds but without any words is kind of mindboggling. According to a recent article on unlocking team synergy from SOURCE, high performing teams use subtle movement cues to coordinate without direct communication. I feel like in many offices, people still rely too much on meetings and just talking, but maybe observing how we physically interact could boost teamwork in ways we never thought. If someone has tried something similar or seen this in action, how did it work out for your team?",
+      "source": "SOURCE",
+      "tags": [
+        "teamwork",
+        "collaboration",
+        "workplace culture",
+        "communication",
+        "leadership",
+        "team synergy"
+      ],
+      "suggested_communities": [
+        "OfficeCharcha",
+        "WorkplaceWoes",
+        "TeamworkTalk"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User456",
+        "is_op": false,
+        "text": "Movement based teamwork sounds cool on paper but honestly thoda zyada confusing lagta hai. In our meetings toh bas bolne ka hi zamana hai, aur half time log bhi distracted hi hote hai. Ye without talking ka idea shayad remote teams ke liye tough lage.",
+        "upvotes": 34,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "WorkBanta",
+        "is_op": false,
+        "text": "Best advice is start small. Try role distribution based on natural movement, jisse har kisi ko apni strength ka pata chale. Humne ek baar simulation kiya tha team ke saath, kuch improve hua. Movement tracking AI thoda quirky lagta hai par effective ho sakta hai agar sahi implement karo.",
+        "upvotes": 45,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "KaamWaliKahani",
+        "is_op": false,
+        "text": "I get the frustration. Kabhi kabhi lagta hai ki bas policies aur data ki chakkar mein real connection lose ho jaata hai. Movement tracking sounds thoda creepy bhi, privacy issues badh sakte hai agar sahi se handle na ho.",
+        "upvotes": 29,
+        "replies": [
+          {
+            "id": 31,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Exactly, privacy ka concern bada hai, especially jab AI involved ho. Companies ko bohot care karni chahiye ki data misuse na ho.",
+            "upvotes": 12
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "Skeptic123",
+        "is_op": false,
+        "text": "Silent language sounds like overhyped buzzword. At the end of the day, tumhare paas clear goals aur effective communication ho tabhi team kaam karegi. Movement analysis would be just extra noise IMO.",
+        "upvotes": 20,
+        "replies": [
+          {
+            "id": 41,
+            "author_label": "User789",
+            "is_op": false,
+            "text": "Haan yaar, true that. Without communication, koi bhi fancy technique kaam nahi karegi. Bas ek doosre ki baat samajhni chahiye, bas.",
+            "upvotes": 10
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thank you sabke thoughts ke liye! Mujhe bhi lagta hai jo realistic lage wo hi chalenge. Shayed movement coordination is just ek layer ho, na ki pura foundation. But agar chhoti chhoti cheezein improve ho jaye toh overall better feel hota hai team me.",
+        "upvotes": 38,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "PolicyPundit",
+        "is_op": false,
+        "text": "Movement tracking ke saath data privacy ka full dhyan rakhna chahiye. GDPR ya similar laws implement ho karo. Otherwise employees ka trust toot jayega, aur jo teamwork badhane ki baat hai wo ulta side mein ja sakti hai.",
+        "upvotes": 18,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "about 300 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Unlocking Team Synergy: Decoding the Silent Language of Movement",
+      "brief": "→ The article discusses the importance of implicit spatial coordination in high-performing teams where members understand and adapt to movement patterns without direct verbal communication. → Team synergy is enhanced by observing movement behaviors, akin to how a flock of birds coordinate their flight without explicit communication. → Strategies to optimize team performance include role distribution based on natural movements, visualizing movement patterns, adaptive proximity, training simulations, AI support, and identifying hidden leadership through movement analysis. → Challenges include complex data analysis, integrating diverse data sources, and maintaining user privacy in tracking movement. The application extends to improving customer service by analyzing employee movements in retail settings."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Human Resources (HR)",
+      "category": "functional",
+      "confidence": 85,
+      "detailed_reason": "The post emphasizes enhancing team synergy, role distribution, and training simulations, all key concerns in workplace productivity and development. It also touches on behavioral analysis and leadership identification, topics relevant for HR strategy and people management. Although it references AI and data analysis, the primary focus is on team coordination and organizational behavior rather than technical implementation, making Human Resources the best fitting community. This fits rule #1 for role communities before industry or career categories."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The article discusses skills and AI/tech trends affecting team performance and workplace collaboration, which are relevant to workplace skills and role-specific developments.",
+      "mapped_communities": [
+        "Work Related",
+        "HR",
+        "Product Management"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Human Resources (HR)"
+    }
+  },
+  {
+    "post": {
+      "title": "Quitting Safe Job Without Backup Plan? Koi Batao",
+      "body": "That moment when you leave a secure job with zero backup plan feels scary as hell. This news from a recent article talks about someone who made exactly that choice and ended up creating their own AI platforms (source). Shows that sometimes comfort and security can hold us back from real growth at work. I’m stuck wondering, how many of us have taken such crazy bets on ourselves? Share your yeh kaise possible moments or regrets yaar.",
+      "source": "The Hardest Decision I Ever Made in Business",
+      "tags": [
+        "career risk",
+        "job security",
+        "growth mindset",
+        "self belief",
+        "decision making",
+        "startup life"
+      ],
+      "suggested_communities": [
+        "CareerConfessions",
+        "StartupTalks",
+        "JobSeekerCircle"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User202",
+        "is_op": false,
+        "text": "Exactly yaar, I think most of us are toh hopelessly stuck in safety nets. Kya pata kya hota agar humne apni comfort zone se bahar kadam badhaya hota. But honestly sabke paas itni himmat nahi hoti. Respect usko jo jump liya.",
+        "upvotes": 230,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "StartupFan85",
+        "is_op": false,
+        "text": "I feel like those risky moves only work if you have a solid plan B or some resources saved. Without backup plan mera toh lagta hai risk lene se zyada problem badhegi, especially Indian job market mein.",
+        "upvotes": 145,
+        "replies": [
+          {
+            "id": 21,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Totally agree, I wasn’t saying anyone should quit without planning. Just sharing it was really tough, but big vision and mindset change helped the author. Sabke circumstances alag hote hain.",
+            "upvotes": 90
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Sure, leaving job with no backup plan sounds like genius plan if you want to enjoy tension and sleepless nights. Definitely recommend to everyone jo apni neend chahte hain.",
+        "upvotes": 120,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "HopefulRina",
+        "is_op": false,
+        "text": "I quit my stable job last year without much backup and 6 months later, still struggling. Par could feel growth and new skills toh mil rahe hain definitely. So I get the excitement even if it’s tough.",
+        "upvotes": 178,
+        "replies": [
+          {
+            "id": 22,
+            "author_label": "User202",
+            "is_op": false,
+            "text": "Rina that's inspiring yaar. Batao kaise manage kar rahe ho financially? I’m scared of that part sabse zyada.",
+            "upvotes": 56
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "PolicyGuy33",
+        "is_op": false,
+        "text": "Interesting stuff but I always think policy and system support can make or break these decisions. If govt or companies had better safety nets for people transitioning, log itna stress na lete.",
+        "upvotes": 75,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks sab for sharing. Just to clarify, author’s ‘White Shirt Mindset’ matlab fresh start attitude, no baggage so growth ho sake. Not saying everyone should leave job, just how mindset matters in facing insecurities. Everyone should choose apne hisaab se :)",
+        "upvotes": 110,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "hopeful",
+      "length_estimate": "approx 350 tokens",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "The Hardest Decision I Ever Made in Business",
+      "brief": "→ The author reflects on the hardest decision they made in business, leaving a secure job with no backup plan. → The decision involved choosing between security and uncertainty, a familiar path versus uncharted territory, and comfort versus growth. → Factors that helped the author decide included having a bigger vision, learning from struggles, and adopting a 'White Shirt Mindset.' → The decision paid off, leading to the creation of multiple AI resources and platforms, emphasizing the importance of betting on oneself when faced with difficult choices."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Tech & Startups",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The post focuses on a significant personal business decision involving leaving a secure job to create AI platforms, reflecting themes common in startup growth and founder challenges. Although it touches on personal reflections, the emphasis on 'bigger vision,' 'White Shirt Mindset,' and creating AI resources aligns with startup and tech entrepreneurial communities. According to classification priority, role communities are checked first, and Tech & Startups fits best since this is about startup growth and founder stories rather than general career advice or other categories."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights personal career decision-making, growth mindset, and creation of AI-related resources, aligning with themes of skills development, AI/tech trends, and career choices.",
+      "mapped_communities": [
+        "Work Related",
+        "General Topics",
+        "Dev & QA"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Tech & Startups"
+    }
+  },
+  {
+    "post": {
+      "title": "Why nobody listens when you chase big dreams",
+      "body": "It’s frustrating how everyone around just doubts your ideas from day one. Jaideep Parashar’s story in ReThynk AI shared on DEV Community reminds me how many times people called his goals impossible or reckless. I’ve felt that too, like people around you want you to just ‘play safe’ instead of trying something big. But then, how do we actually keep going when the noise gets too much? Anyone else here had to prove the doubters wrong or just gave up?",
+      "source": "DEV Community",
+      "tags": [
+        "startups",
+        "motivation",
+        "perseverance",
+        "business mindset",
+        "career advice",
+        "failure stories"
+      ],
+      "suggested_communities": [
+        "Startup Founders India",
+        "Tech Entrepreneurs",
+        "Career Growth"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User456",
+        "is_op": false,
+        "text": "Mujhe toh lagta hai most of the time people just dont understand the big vision. They want small safe cheezein. Patience rakhna banta hai agar bada khelna hai.",
+        "upvotes": 102,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Exactly yaar, patience nahi hoti aaj kal, matlab sab chahte hain jaldi success. Par real world me slow progress hi common hai. Batana chahta tha ki share karne se thoda himmat milti hai.",
+        "upvotes": 65
+      },
+      {
+        "id": 3,
+        "author_label": "TechieRaj",
+        "is_op": false,
+        "text": "Jab tak aap apna proof nahi karoge, log doubt karna band nahi karenge. Sabko pata hai ‘impossible’ ka matlab sirf ‘not done yet’. Just keep grinding and network sahi rakhna padega.",
+        "upvotes": 54,
+        "replies": [
+          {
+            "id": 7,
+            "author_label": "User789",
+            "is_op": false,
+            "text": "Network kaafi help karta hai, but kabhi kabhi laga ki log sirf apna faida dekhta hai. Genuine support milna mushkil hai.",
+            "upvotes": 15
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Bhai, sabko lagta hai duniya ki best idea unke paas hai. Jab tum kuch sochte ho, log turant keh dete hain ‘logon ne try kiya hai, possible nahi’. Shuru se hi negativity ki factory chalti hai.",
+        "upvotes": 70,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "SeemaM",
+        "is_op": false,
+        "text": "Main toh bas yehi chahti hoon ki young business folks thoda realistic ho jaye. Perseverance zaroori hai, but plan B and backup hona chahiye. Overwhelm hone se bachna is important.",
+        "upvotes": 43,
+        "replies": [
+          {
+            "id": 8,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Bilkul Seema! Balance chahiye between dream chasing and ground reality. Fail hone se mat daro but backup plan ka hona bhi smart hai.",
+            "upvotes": 20
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "SeekingHelp21",
+        "is_op": false,
+        "text": "I feel insecure sometimes about my ideas coz log kaafi harsh comments karte hai. Koi advice ho kaise insecurities ko handle karte ho jab sab kuch uncertain lage?",
+        "upvotes": 30,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": 320,
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "I wish every young businessperson could learn this...",
+      "brief": "→ Jaideep Parashar, Founder of ReThynk AI, shares insights on pursuing goals despite skepticism. → Many thought his ambitions were reckless or impossible, but he persevered. → Join the discussion on DEV Community to exchange insights and empower collective intelligence. → Express gratitude by leaving comments and fostering knowledge sharing."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Tech & Startups",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The content centers around a founder sharing experiences about pursuing ambitious goals despite skepticism, highlighting founder culture and startup growth mindset. This fits the Tech & Startups community as it involves insights related to startups and entrepreneurial journeys. There is no role-specific skill or technical detail to classify under other functional communities, nor is it about industry-specific or location-specific topics. Career advice is not the primary focus."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news focuses on perseverance and insights related to business and professional growth, aligning with skills development and motivation within professional communities.",
+      "mapped_communities": [
+        "General Topics",
+        "Work Related",
+        "Role Functions"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Tech & Startups"
+    }
+  },
+  {
+    "post": {
+      "title": "This Laravel AI package feels a bit much",
+      "body": "This new laravel gem for AI seems like a lot to handle. The hosseinhezami laravel gemini package adds text gen, chat, image stuff and more according to source. I get that AI’s everywhere now but honestly adding all this to a Laravel app sounds overwhelming for many of us, specially if you’re not super expert in AI. Does anyone here actually tried to use something like this? How was the learning curve and did you get it to work without pulling your hair out?",
+      "source": "hosseinhezami/laravel-gemini package details",
+      "tags": [
+        "laravel",
+        "AI features",
+        "developer tools",
+        "web development",
+        "learning curve",
+        "opensource"
+      ],
+      "suggested_communities": [
+        "Laravel Developers",
+        "AI and Machine Learning",
+        "Web Dev Gossip"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User457",
+        "is_op": false,
+        "text": "Bhai, AI ka craze toh samajh sakta hun but kabhi kabhi itna saara feature thoda overkill lagta. Especially jab job me ekdum basics hi clear na ho. I tried one plugin for chat bot integration in Laravel, simple toh tha but advanced features toh sapne me bhi nahi.😂",
+        "upvotes": 78,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Haan bhai usi baat, I feel like most of us are stuck at basics and then suddenly this gemani aaya jisme text to speech, image gen, streaming sab ek sath. Confusing AF",
+            "upvotes": 40
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "CodeWarrior",
+        "is_op": false,
+        "text": "If anyone is serious about this, best way is to break it down. Use only the parts you actually need, like start with text generation or chat stuff. Full package ko ekdum se samajhna tough hai, trust me. Also docs matter a lot, so read carefully.",
+        "upvotes": 56,
+        "replies": [
+          {
+            "id": 21,
+            "author_label": "User839",
+            "is_op": false,
+            "text": "Exactly this. Trying to implement everything at once just ends in disaster. One step at a time.",
+            "upvotes": 22
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticDev",
+        "is_op": false,
+        "text": "Oh great, just what I wanted, another huge package with 500 features that I'll never fully use. Kya naya innovation hai yaar, copy paste kar ke boss ko impress karte raho.",
+        "upvotes": 43,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "JassiCoder",
+        "is_op": false,
+        "text": "I gave it a try last month, found the API pretty clean but honestly setting up streaming and image gen was headache. Also, real time streaming kaafi resource heavy hai so check your server config before going full steam.",
+        "upvotes": 34,
+        "replies": [
+          {
+            "id": 41,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Thanks, yes resource issue is real. Main reason I hesitated was server load and if clients will hate the delays",
+            "upvotes": 19
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "HopefulN00b",
+        "is_op": false,
+        "text": "Kisi newbie ko bhi kuch tips mile? I’m still confused how to choose between all these AI options. Want to add some AI based feature in my portfolio but don’t wanna get stuck trying to learn too many things at once.",
+        "upvotes": 29,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "around 320 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Build Laravel AI Features in Minutes: A Guide to the Gemini Package",
+      "brief": "→ The hosseinhezami/laravel-gemini package allows users to easily add powerful AI features to Laravel applications. → Key features include text generation, chat interfaces, structured data extraction, image generation, document understanding, text-to-speech, and real-time streaming. → The package provides clean and fluent APIs for different AI functionalities like generating text, images, audio, and handling real-time streaming. → For more advanced features like video generation, embeddings, and file management, users can refer to the official documentation."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Dev & QA",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post discusses the use of the Laravel-Gemini package, a software library for developers to add AI features into their Laravel applications. This is directly related to software engineering and development practices, making it relevant for the Dev & QA community. The content centers on capabilities like text generation, API usage, and integration workflows, which are typical developer topics. Since role communities have the highest priority and this post is about developer tools, it fits best here rather than communities focused on AI or data science specifically."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news highlights a new AI/tech tool that enhances developer skills and productivity, relevant to tech trends and role-specific developments for engineers.",
+      "mapped_communities": [
+        "Dev & QA",
+        "General Topics",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Dev & QA"
+    }
+  },
+  {
+    "post": {
+      "title": "Probabilistic Reasoning is way more confusing than it sounds",
+      "body": "Trying to wrap my head around probabilistic reasoning and it’s honestly a bit much sometimes. This article from Bite size Article explains it as dealing with uncertainties by assigning probabilities, like using Bayes' theorem to guess if a burglar is around when a dog barks. I feel like for data science or AI jobs, we’re expected to just get these concepts and apply them in things like spam filters or weather forecasts, but it often just feels like guesswork with fancy math. Has anyone else struggled with actually using this on the job or just understanding it clearly? Would love some tips or real life examples.",
+      "source": "Bite-size Article",
+      "tags": [
+        "probability",
+        "AI",
+        "data science",
+        "Bayes theorem",
+        "uncertainty",
+        "machine learning"
+      ],
+      "suggested_communities": [
+        "DataScienceIndia",
+        "AIandML",
+        "CareerAdvice"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User874",
+        "is_op": false,
+        "text": "Same yaar. I read about Bayes theorem so many times but still sometimes it feels like maths magic. Like hmm, is there even a logic behind all this? Guess it clicks only after practicing loads of examples.",
+        "upvotes": 56,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "User874",
+            "is_op": false,
+            "text": "Any good resources to get it with just simple language? Mathe ka dard kam karne wali pls.",
+            "upvotes": 24
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "DataBro23",
+        "is_op": false,
+        "text": "Honestly, these concepts become clearer when you try projects like spam detection or even fake news classifiers. Thoda real data ke saath khelna helps a lot more than just theory. Just start simple and build up from chhote examples.",
+        "upvotes": 89,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks for sharing, I feel same. Practical stuff is definitely better but still tough to connect with bayes + all probabilistic stuff in real situations. Agar koi easy beginner projects guide mil jaaye toh best rahega.",
+        "upvotes": 42,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Oh great, so now we have maths that tells us how to guess if a thief is around because the dog barked? Imagine explaining this to your non tech relative. Police ka kaam bhi humara hi karna padega shayad.",
+        "upvotes": 37,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "EmpathyChai",
+        "is_op": false,
+        "text": "Getting overwhelmed with this type of stuff is totally normal. Data science or AI is not just about coding but also understanding such concepts deep. Thoda patience with yourself, try small steps, it will get better, bas time chahiye.",
+        "upvotes": 63,
+        "replies": [
+          {
+            "id": 51,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Thanks, needed that! Sometimes lagta hai main hi thoda late samajhta hu sab kuch, but good to hear patience helps.",
+            "upvotes": 31
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "TechPolicyGuy",
+        "is_op": false,
+        "text": "One thing missing in many places is proper training on how probability is actually applied in the workplace. It’s not just theory but also how assumptions are checked, probs updated regularly etc. Companies should invest more here because wrong interpretation of probs can lead to bad decisions.",
+        "upvotes": 48,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": "approx 280 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Probabilistic Reasoning (Bite-size Article)",
+      "brief": "→ Probabilistic Reasoning involves handling uncertainties by assigning probabilities to various possibilities. → An example using Bayes' theorem illustrates how to calculate the probability of a burglar being present when a dog barks. → Probabilistic Reasoning is widely used in applications like spam detection, weather forecasts, and autonomous driving. → These concepts play a crucial role in fields such as AI technology and data science for making informed decisions based on probabilities."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post covers probabilistic reasoning, Bayes' theorem, and real-world applications like spam detection and autonomous driving, which are core topics in machine learning and data analytics. These signals strongly align with 'Data Science & Analytics' as it focuses on model performance and analytics tools. Following the classification priority, role-specific communities come first, and this post clearly aligns with topics on data science rather than industry, location, or career topics."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The article discusses probabilistic reasoning, a key skill in AI and data science that affects job roles and tech industry trends.",
+      "mapped_communities": [
+        "Dev & QA",
+        "AI & Data Science",
+        "Tech & IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "Anyone Tried This CSV Analyzer App on iPhone?",
+      "body": "This RowSwift app sounds like a neat idea but honestly, I get skeptical with these quick data tools. According to the news, RowSwift is an iOS app that helps analyze CSV files using features like row counts and histograms (source: news). For those of us juggling quick data checks on the go, it could be a time saver, but I wonder how reliable it really is for actual work stuff. Has anyone used something like this for quick data analysis? Kya usable lagta hai ya jyaada marketing hai?",
+      "source": "news",
+      "tags": [
+        "CSV analysis",
+        "iOS apps",
+        "data tools",
+        "quick stats",
+        "work tools"
+      ],
+      "suggested_communities": [
+        "DataScienceIndia",
+        "MobileAppUsers",
+        "TechCurious"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User689",
+        "is_op": false,
+        "text": "Mujhe lagta hai jab tak aapke paas proper Excel ya Google Sheets nahi hai, tab tak aise apps kaafi handy ho sakte hain. But trusting them blindly for important reports mat karna, bhai. Testing karne chahiye pehle.",
+        "upvotes": 45,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "DataDude42",
+        "is_op": false,
+        "text": "Wait, Kya sirf iPhone ke liye?? Matlab Android users bechare phas gaye, data toh sabke paas hai na? Kuch toh cross-platform hote bano yaar, bahut frustration hoti hai.",
+        "upvotes": 30,
+        "replies": [
+          {
+            "id": 21,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Yes bro, iPhone only lagta hai abhi. Android kaise miss ho gaya mujhe bhi samajh nahi aaya. Hopefully they launch there too, tab thoda balance hoga market mein.",
+            "upvotes": 12
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSaurabh",
+        "is_op": false,
+        "text": "CSV ko analyze karne ke liye phone? Ab 2-3 rows to notebook me bhi count ho jata hai. Bada bada software download karne ka drama kya hai?",
+        "upvotes": 22,
+        "replies": [
+          {
+            "id": 31,
+            "author_label": "User689",
+            "is_op": false,
+            "text": "True but sometimes office mein quick check karna padta hai, aur laptop/PC side available nahi hota yaar. Toch kaafi zaruri hoga phone par bhi tools mile.",
+            "upvotes": 8
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "author_label": "HelpfulHema",
+        "is_op": false,
+        "text": "Just ek tip dungi, agar CSV large ho toh phone apps usually freeze ho jate hain. So I prefer transfer karke laptop pe hi kaam karti hu. But quick stats ke liye app try karna banta hai agar urgent kaam hai.",
+        "upvotes": 40,
+        "replies": []
+      },
+      {
+        "id": 5,
+        "author_label": "CuriousKaran",
+        "is_op": false,
+        "text": "Kya ye app kuch advanced features deta hai? Like filtering ya data cleaning? Warna to bas counts aur histograms se toh kaam pura nahi hota.",
+        "upvotes": 18,
+        "replies": [
+          {
+            "id": 51,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "From what I read, mainly simple stuff like column summaries, rows count and histograms hi milte hain. Advanced stuff abhi nahi. Woh bhi thoda basic hona hai user friendly design ke liye shayad.",
+            "upvotes": 10
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "author_label": "DataPolicyRavi",
+        "is_op": false,
+        "text": "One thing dhyan me rakho, phone pe jab bhi data upload karte ho, privacy issues check karna jaruri hai. Specially sensitive company data ho toh ye apps kaise handle karte hain, pata nahi. Kabhi kabhi simple tool bhi risk ban jata hai.",
+        "upvotes": 25,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "curious",
+      "length_estimate": "approx 300 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "RowSwift: A Simple CSV Analyzer for iOS",
+      "brief": "→ RowSwift is an iOS app designed as a CSV analyzer for quick answers. → It allows users to analyze CSV files, visualize data, and get quick stats. → The app offers features like row counting, histograms, and column summaries. → User-friendly design and practical functionalities make it ideal for data analysis tasks."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post's description centers on analyzing CSV files, visualizing data, and generating statistics, all of which are core tasks in data science and analytics. The mention of histograms, column summaries, and quick data insights indicates a focus on data manipulation and exploration. According to the classification priority, since the post is about a data analysis tool, it fits best under the Data Science & Analytics community, a functional community dedicated to machine learning, data pipelines, and analytics tools. This makes it the top choice after role communities are considered."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The app relates to tech skills and tools for data analysis, which is relevant for professionals looking to enhance their data handling capabilities.",
+      "mapped_communities": [
+        "General Topics",
+        "Dev & QA",
+        "IT Services"
+      ],
+      "confidence": "Medium"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  },
+  {
+    "post": {
+      "title": "Anyone else stuck on setting up cloud identity stuff?",
+      "body": "This federation setup between Google Cloud and Oracle Cloud is such a headache! According to the latest, you gotta create groups, set up SAML apps, and do some attribute mapping on both sides (source: official docs). I work with cloud infra and honestly, it feels like one wrong step and whole login flow breaks. For those dealing with OCI and GCP, this just means more time on config and less on real work. Anyone here nailed this federation setup? How did you make it less painful?",
+      "source": "official docs",
+      "tags": [
+        "cloud identity",
+        "GCP",
+        "Oracle Cloud",
+        "federation setup",
+        "SAML",
+        "IT challenges"
+      ],
+      "suggested_communities": [
+        "CloudInfrastructure",
+        "DevOpsIndia",
+        "OracleTech"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User786",
+        "is_op": false,
+        "text": "Yaar itni settings and syncing, feels like setting up a rocket launch, but for login lol. One time I messed attribute mapping and was stuck for hours. Really hope someone makes all this simpler someday.",
+        "upvotes": 45,
+        "replies": []
+      },
+      {
+        "id": 2,
+        "author_label": "CloudWarrior",
+        "is_op": false,
+        "text": "Try enabling just-in-time provisioning carefully, without that my users were not synced properly and kept facing login failures. Also double check your group names exactly match on both sides, chhoti si galati and system fails to authenticate.",
+        "upvotes": 78,
+        "replies": [
+          {
+            "id": 21,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Haan bro, that's exactly my pain point. Just-in-time provisioning ka setup complicated lagta hai, one wrong config and poora flow down ho jata hai.",
+            "upvotes": 32
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSanjay",
+        "is_op": false,
+        "text": "Jo log ye federation setup easy bolte unko cloud sirf video games lagta hoga. Reality me x times frustrating hai yeh process, aur support documents toh aur bhi confusing!",
+        "upvotes": 60,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "InsecureDev",
+        "is_op": false,
+        "text": "Confused ho jaata hu kaise start karu, itna zyada steps ki sometimes lagta hai main beginner hi nahi isme. Agar koi step by step example mile toh bahut help ho jaayegi.",
+        "upvotes": 27,
+        "replies": [
+          {
+            "id": 41,
+            "author_label": "CloudWarrior",
+            "is_op": false,
+            "text": "Check some YouTube tutorials for hands-on demo, helped me a lot than reading official docs only.",
+            "upvotes": 15
+          },
+          {
+            "id": 42,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Agree yaar, jo docs hai vo mostly technical aur confusing hi lagte hain. I am also trying to put together a simpler checklist for my team.",
+            "upvotes": 20
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "PolicyNerd",
+        "is_op": false,
+        "text": "Remember to comply with your org’s access policies while doing these setups. Federation makes life easier but also adds risk if groups or attributes are wrongly assigned. Double audit everything.",
+        "upvotes": 35,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "PragmaticRohit",
+        "is_op": false,
+        "text": "Workarounds worked for me: test everything in a sandbox first, get dev access, then migrate live. Don't skip the testing part, saves you from embarrassing login breaks in prod.",
+        "upvotes": 42,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "frustrated",
+      "length_estimate": "about 300 words",
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "How to set up Identity Federation between Google Cloud and Oracle Cloud",
+      "brief": "→ Setting up Identity Federation enables users to log into OCI using GCP IAM. → Steps involve creating groups, SAML app, and attribute mapping in both platforms. → Verify federated login after enabling Just-in-time provisioning for group synchronization."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "IT Support",
+      "category": "functional",
+      "confidence": 90,
+      "detailed_reason": "The title and description clearly discuss the technical steps involved in establishing Identity Federation between cloud platforms (Google Cloud and Oracle Cloud). This involves identity and access management, user login setups, and synchronization of groups—all typical IT support domain activities concerning user support tools and policies. While the topic has a cloud/technical flavor, it does not directly focus on development, software engineering, or product management, hence IT Support is the best fit. It is not about a specific city, industry, or career advice."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news covers skills and technical setups relevant to cloud engineers and IT professionals, reflecting role-specific developments and tech trends affecting jobs.",
+      "mapped_communities": [
+        "Dev & QA",
+        "IT Services",
+        "Skills & Learning"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "IT Support"
+    }
+  },
+  {
+    "post": {
+      "title": "Column Databases Are Confusing AF, Anyone Else?",
+      "body": "This whole column-oriented database thing is making my head spin. According to the article from Column-Oriented Databases: A Technical Overview, these databases store data by columns which apparently makes queries faster and more storage efficient. From what I understand, this could really change how big data projects run, but it also feels like a huge jump from regular row-based stuff I've handled. Trying to wrap my head around whether it's worth learning deeply or just stick to old methods. Anyone here switched to column databases at work? How was the learning curve or real benefit?",
+      "source": "Column-Oriented Databases: A Technical Overview",
+      "tags": [
+        "databases",
+        "bigdata",
+        "analytics",
+        "techlearning",
+        "dataengineering"
+      ],
+      "suggested_communities": [
+        "DataScienceIndia",
+        "BigDataEnthusiasts",
+        "TechCareerTalk"
+      ],
+      "safety_flags": []
+    },
+    "comments": [
+      {
+        "id": 1,
+        "author_label": "User248",
+        "is_op": false,
+        "text": "Column DBs are hella confusing when u start, I felt same. But once used Redshift at office, queries speed up a lot for analytics. Definitely worth putting time, but expect headaches in beginning.",
+        "upvotes": 56,
+        "replies": [
+          {
+            "id": 11,
+            "author_label": "OP",
+            "is_op": true,
+            "text": "Yeah yaar, that’s what I’m scared about. Speed sounds awesome but don’t wanna waste months stuck troubleshooting basic stuff.",
+            "upvotes": 23
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "author_label": "DataGeek88",
+        "is_op": false,
+        "text": "Jo log column databases ko samajh hi nahi paate, they usually try too many optimizations at start. Just focus on basics like how column storage impacts performance and compression, baaki sab aapne aap samajh mein aa jayega.",
+        "upvotes": 31,
+        "replies": []
+      },
+      {
+        "id": 3,
+        "author_label": "SarcasticSam",
+        "is_op": false,
+        "text": "Chalo ab column DBs bhi aaye, pehle row the phir line, ab column. Matlab data ko alag alag way mein torture kar rahe hain. Kabhi kabhi lagta hai data scientists confuse karne me experts hain.",
+        "upvotes": 49,
+        "replies": []
+      },
+      {
+        "id": 4,
+        "author_label": "PragmaticPriya",
+        "is_op": false,
+        "text": "If your company is dealing with huge datasets, definitely learn basics of column DBs like BigQuery or ClickHouse. Starting from small projects and gradually scaling helps rather than diving straight into full migration.",
+        "upvotes": 41,
+        "replies": [
+          {
+            "id": 12,
+            "author_label": "User248",
+            "is_op": false,
+            "text": "Agree. Small experiment karne se confidence build hoti hai aur mistakes se bhi sikha jata hai.",
+            "upvotes": 26
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "author_label": "EmpathyRaj",
+        "is_op": false,
+        "text": "Understand your frustration, yaar! I also struggled initially juggling between row and column concepts during analytics training. But jaise jaise samajh aaya, it helped work faster on queries and data compression. Thoda patience, sab sahi ho jayega.",
+        "upvotes": 38,
+        "replies": []
+      },
+      {
+        "id": 6,
+        "author_label": "TechPolicyX",
+        "is_op": false,
+        "text": "One thing to remember, agar aapki organization ka infrastructure cloud based hai then popular column stores like Redshift and BigQuery might help optimize costs too. Align skills accordingly to market demand.",
+        "upvotes": 29,
+        "replies": []
+      },
+      {
+        "id": 7,
+        "author_label": "OP",
+        "is_op": true,
+        "text": "Thanks sab! Definitely gonna start small like suggested and focus on one platform first. Kabhi kabhi sochta tha can I skip all this new stuff and chill with traditional DB but lagta nahi chalega future me.",
+        "upvotes": 45,
+        "replies": []
+      }
+    ],
+    "meta": {
+      "tone": "overwhelmed",
+      "length_estimate": 320,
+      "refusal_reason": ""
+    },
+    "original_news": {
+      "title": "Column-Oriented Databases: A Technical Overview",
+      "brief": "→ Column-oriented databases store data by columns, allowing efficient analytical workload handling. → These databases offer advantages like optimized query performance and high data compression. → Key features include read-heavy operation optimization, efficient query execution, and parallel processing capabilities. → Advantages include improved performance, cost-effective storage, scalability for big data applications, and flexibility. → Popular column-oriented databases include Apache HBase, Amazon Redshift, Google BigQuery, Apache Parquet, and ClickHouse."
+    },
+    "communitySuggestionResponse": {
+      "selected_community": "Data Science & Analytics",
+      "category": "functional",
+      "confidence": 95,
+      "detailed_reason": "The post discusses technical features and benefits of column-oriented databases such as Apache HBase, Redshift, and BigQuery, which are critical in data pipelines and analytical workloads. This fits strongly within the Data Science & Analytics community, where topics on data storage optimization, query performance, and handling big data are highly relevant. The content is specific to data architecture and performance considerations necessary for analytics, making it a role-focused discussion on data engineering and science tools."
+    },
+    "newsValidationResponse": {
+      "eligibleToPost": true,
+      "reason": "The news discusses technical trends and skills related to column-oriented databases, which is relevant for professionals in data engineering and related roles.",
+      "mapped_communities": [
+        "Dev & QA",
+        "General Topics",
+        "IT Services"
+      ],
+      "confidence": "High"
+    },
+    "processed_data": {
+      "source": "Dev",
+      "suggested_community_name": "Data Science & Analytics"
+    }
+  }
+]
