@@ -409,10 +409,24 @@ class PostsViewer {
             (post.communityName || null);
         
         if (communityName) {
-            const badge = document.createElement('span');
-            badge.className = 'badge primary-community';
-            badge.textContent = communityName;
-            communitiesContainer.appendChild(badge);
+            // Split by comma and trim each community name
+            const communities = communityName.split(',').map(name => name.trim()).filter(name => name.length > 0);
+            
+            if (communities.length > 0) {
+                // Create a badge for each community
+                communities.forEach(community => {
+                    const badge = document.createElement('span');
+                    badge.className = 'badge primary-community';
+                    badge.textContent = community;
+                    communitiesContainer.appendChild(badge);
+                });
+            } else {
+                // Fallback: show a message if no processed community is available
+                const noCommunitybadge = document.createElement('span');
+                noCommunitybadge.className = 'badge secondary-community';
+                noCommunitybadge.textContent = 'No community suggested';
+                communitiesContainer.appendChild(noCommunitybadge);
+            }
         } else {
             // Fallback: show a message if no processed community is available
             const noCommunitybadge = document.createElement('span');
