@@ -182,12 +182,20 @@ class PostsViewer {
     }
 
     async loadPostsFromSource(source) {
-        // Try different filename patterns based on your actual files
-        const possibleFilenames = [
+        // First, try to find the source object to get the exact filename from manifest
+        const sourceObj = this.availableSources.find(s => s.value === source);
+        
+        // Build list of possible filenames, prioritizing the manifest filename
+        const possibleFilenames = [];
+        if (sourceObj && sourceObj.filename) {
+            possibleFilenames.push(sourceObj.filename); // Use filename from manifest first
+        }
+        possibleFilenames.push(
             `Generated_Posts_${source}.json`,  // Primary pattern: Generated_Posts_[Source Name].json
             `${source}.json`,                   // Fallback: [Source Name].json
+            `news_post_creation_response.json`, // New format file
             `hindubusiness_v2.json`             // Legacy file
-        ];
+        );
         
         for (const filename of possibleFilenames) {
             try {
@@ -198,7 +206,24 @@ class PostsViewer {
                 }
                 
                 const postsData = await response.json();
-                this.posts = postsData;
+                
+                // Check if this is the new format and transform if needed
+                if (Array.isArray(postsData) && postsData.length > 0) {
+                    // Check if it's new format (has postTitle, postDescription, communityName)
+                    if (postsData[0].postTitle && postsData[0].postDescription) {
+                        // New format - use as is
+                        this.posts = postsData;
+                    } else if (postsData[0].post && postsData[0].original_news) {
+                        // Old format - use as is
+                        this.posts = postsData;
+                    } else {
+                        // Unknown format, try to use as is
+                        this.posts = postsData;
+                    }
+                } else {
+                    this.posts = postsData;
+                }
+                
                 this.currentPostIndex = 0;
                 
                 if (this.posts.length > 0) {
@@ -315,14 +340,34 @@ class PostsViewer {
         this.updateProgressBar();
         this.updateNavigationButtons();
 
-        // Display original news
-        this.displayOriginalNews(currentPost.original_news, currentPost.processed_data);
+        // Check if this is new format or old format
+        const isNewFormat = currentPost.postTitle && currentPost.postDescription;
 
-        // Display generated post
-        this.displayGeneratedPost(currentPost.post, currentPost.meta, currentPost.processed_data);
+        if (isNewFormat) {
+            // New format: postTitle, postDescription, originalNewsTitle, originalNewsBody, etc.
+            this.displayOriginalNews({
+                title: currentPost.originalNewsTitle || '',
+                brief: currentPost.originalNewsBody || ''
+            }, {
+                source: currentPost.source || 'Unknown'
+            });
 
-        // Display comments
-        this.displayComments(currentPost.comments);
+            this.displayGeneratedPost({
+                title: currentPost.postTitle,
+                body: currentPost.postDescription,
+                tags: currentPost.tags || []
+            }, currentPost.meta || {}, {
+                suggested_community_name: currentPost.communityName || '',
+                source: currentPost.source || 'Unknown'
+            });
+
+            this.displayComments(currentPost.comments || []);
+        } else {
+            // Old format: original_news, post, meta, processed_data
+            this.displayOriginalNews(currentPost.original_news, currentPost.processed_data);
+            this.displayGeneratedPost(currentPost.post, currentPost.meta, currentPost.processed_data);
+            this.displayComments(currentPost.comments || []);
+        }
 
         // Add fade-in animation
         document.querySelectorAll('.card').forEach(card => {
@@ -331,36 +376,42 @@ class PostsViewer {
     }
 
     displayOriginalNews(originalNews, processedData) {
-        document.getElementById('originalTitle').textContent = originalNews.title;
-        document.getElementById('originalBrief').textContent = originalNews.brief;
+        document.getElementById('originalTitle').textContent = originalNews.title || '';
+        document.getElementById('originalBrief').textContent = originalNews.brief || '';
         document.getElementById('newsSource').textContent = processedData.source || 'Unknown';
     }
 
     displayGeneratedPost(post, meta, processedData) {
-        document.getElementById('generatedTitle').textContent = post.title;
-        document.getElementById('generatedBody').textContent = post.body;
-        document.getElementById('postTone').textContent = meta.tone;
-        document.getElementById('postLength').textContent = meta.length_estimate;
+        document.getElementById('generatedTitle').textContent = post.title || '';
+        document.getElementById('generatedBody').textContent = post.body || '';
+        document.getElementById('postTone').textContent = meta.tone || '-';
+        document.getElementById('postLength').textContent = meta.length_estimate || '-';
 
         // Display tags
         const tagsContainer = document.getElementById('postTags');
         tagsContainer.innerHTML = '';
-        post.tags.forEach(tag => {
-            const badge = document.createElement('span');
-            badge.className = 'badge';
-            badge.textContent = tag;
-            tagsContainer.appendChild(badge);
-        });
+        if (post.tags && Array.isArray(post.tags) && post.tags.length > 0) {
+            post.tags.forEach(tag => {
+                const badge = document.createElement('span');
+                badge.className = 'badge';
+                badge.textContent = tag;
+                tagsContainer.appendChild(badge);
+            });
+        }
 
-        // Display suggested communities - only show the one from processed_data
+        // Display suggested communities - show communityName from new format or processed_data.suggested_community_name from old format
         const communitiesContainer = document.getElementById('suggestedCommunities');
         communitiesContainer.innerHTML = '';
         
-        // Only show processed_data.suggested_community_name if available
-        if (processedData && processedData.suggested_community_name) {
+        // Check for community name in new format (communityName) or old format (processed_data.suggested_community_name)
+        const communityName = processedData && processedData.suggested_community_name ? 
+            processedData.suggested_community_name : 
+            (post.communityName || null);
+        
+        if (communityName) {
             const badge = document.createElement('span');
             badge.className = 'badge primary-community';
-            badge.textContent = processedData.suggested_community_name;
+            badge.textContent = communityName;
             communitiesContainer.appendChild(badge);
         } else {
             // Fallback: show a message if no processed community is available
@@ -374,6 +425,12 @@ class PostsViewer {
     displayComments(comments) {
         const commentsContainer = document.getElementById('commentsContainer');
         const commentsCount = document.getElementById('commentsCount');
+        
+        if (!comments || !Array.isArray(comments)) {
+            commentsCount.textContent = '0';
+            commentsContainer.innerHTML = '';
+            return;
+        }
         
         // Calculate total comments including replies
         let totalComments = comments.length;
@@ -394,14 +451,18 @@ class PostsViewer {
         const commentDiv = document.createElement('div');
         commentDiv.className = `comment ${comment.is_op ? 'op-comment' : ''}`;
 
+        // Handle upvotes if they exist (new format)
+        const upvotesDisplay = comment.upvotes !== undefined ? 
+            ` <span class="upvotes-badge"><i class="fas fa-arrow-up me-1"></i>${comment.upvotes}</span>` : '';
+
         commentDiv.innerHTML = `
             <div class="comment-header mb-2">
                 <div class="comment-author">
                     <i class="fas fa-user-circle me-2"></i>
-                    ${comment.author_label}${comment.is_op ? ' <span class="op-badge">OP</span>' : ''}
+                    ${comment.author_label || 'Unknown'}${comment.is_op ? ' <span class="op-badge">OP</span>' : ''}${upvotesDisplay}
                 </div>
             </div>
-            <div class="comment-text">${comment.text}</div>
+            <div class="comment-text">${comment.text || ''}</div>
         `;
 
         // Add replies if they exist

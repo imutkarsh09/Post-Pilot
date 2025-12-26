@@ -452,6 +452,18 @@ header h1 i {
     letter-spacing: 0.5px;
 }
 
+.upvotes-badge {
+    background: linear-gradient(135deg, var(--success-color), var(--success-dark));
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin-left: 0.5rem;
+    display: inline-flex;
+    align-items: center;
+}
+
 .comment-text {
     color: var(--gray-600);
     line-height: 1.6;
